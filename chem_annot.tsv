@@ -1,0 +1,295 @@
+.	comment
+..	misc
+GFF	dGTP analogue
+DGJ	Galafold
+JT0	agonist JT010
+NU8	HTL-6641
+
+DMS	DMSO
+NAD	NAD
+FAD	FAD
+
+ATP	ATP
+ADP	ADP
+AMP	AMP
+
+AGS	ATP-gamma-S
+ANP	AMP-PNP
+ACP	AMP-PCP
+APC	AMP-CPP
+AMP	AMP
+DC	dCMP
+DA	dAMP
+DG	dGMP
+DT	dTMP
+			
+GTP	GTP
+GDP	GDP
+GCP	GMP-PCP
+G2P	GMP-CPP
+GNP	GMP-PNP
+GNP	GppNHp, GMPPNP
+
+UTP	UTP
+UDP	UDP
+
+DZR	Z944
+
+..	detergent
+LDA	LDAO
+C8E	C8E
+N8E	C8E5
+
+..	lipid
+PX4	DMPC
+P1O	DDPC
+XP4	DMPA
+PCW	DOPC
+PEE	DOPE
+P42	SPPC
+L9R	SOPC
+PEV	POPE
+
+.	class
+..	ヌクレオチド エネルギー分子
+ATP	ene
+ADP	ene
+AGS	alg
+ANP	alg
+ACP	alg
+			
+GTP	ene
+GDP	ene
+GCP	alg
+G2P	alg
+GNP	alg
+APC	alg
+AOV	alg
+
+..	buffer
+TRS	buf
+EPE	buf
+PIN	buf
+MES	buf
+NHE	buf
+BCN	buf
+BTB	buf
+B3P	buf
+TAM	buf
+CXS	buf
+MPO	buf
+
+..	detergent
+LDA	det
+C8E	det
+N8E	det
+DMU	det
+CPS	det
+BOG	det
+BNG	det
+BGL	det
+1N7	det
+ZDM	det
+UMQ	det
+LMU	det
+LMT	det
+2CV	det
+HSH	det
+AJP	det
+4OA	det
+CHO	det
+CM5	det
+EGC	det
+OXN	det
+
+CPL	det
+LMN	det
+TRT	det
+
+9Z9	det
+DXC	det
+SOG	det
+CPQ	det
+
+..	lipid
+Q3G	lip
+PLC	lip
+3PE	lip
+6OU	lip
+6PL	lip
+8PE	lip
+9PE	lip
+17F	lip
+44E	lip
+B7N	lip
+CDL	lip
+CPL	lip
+DLP	lip
+DPG	lip
+EGY	lip
+EPH	lip
+L9R	lip
+L9R	lip
+LBN	lip
+LHG	lip
+LOP	lip
+LPP	lip
+MC3	lip
+OPC	lip
+P1O	lip
+P6L	lip
+P42	lip
+P42	lip
+PC1	lip
+PC2	lip
+PC7	lip
+PC9	lip
+PCW	lip
+PEE	lip
+PEF	lip
+PEH	lip
+PEH	lip
+PEK	lip
+PEV	lip
+PEW	lip
+PGK	lip
+PGT	lip
+PGV	lip
+PGW	lip
+POV	lip
+PS2	lip
+PT5	lip
+PWV	lip
+PX4	lip
+XP4	lip
+P3A	lip
+PSC	lip
+PTY	lip
+PEV	lip
+
+..	沈殿剤
+12P	pre
+15P	pre
+1PE	pre
+P2K	pre
+P4k	pre
+P33	pre
+P6G	pre
+PE4	pre
+PE5	pre
+PEU	pre
+PG0	pre
+PG4	pre
+XPE	pre
+DMS	pre
+MPD	pre
+MRD	pre
+2PE	pre
+
+..	抗生物質
+CLY	ant
+AIC	ant
+ZIT	ant
+FUA	ant
+LBF	ant
+LMB	ant
+HYG	ant
+9LH	ant
+RAP	ant
+RAD	ant
+ARD	ant
+RPX	ant
+ERY	ant
+STU	ant
+BB2	ant
+NXL	ant
+ERY	ant
+KAN	ant
+IM2	ant
+CLM	ant
+SRY	ant
+TOP	ant
+NMY	ant
+NT	ant
+FOM	ant
+TAC	ant
+MIY	ant
+DMY	ant
+SIS	ant
+NIZ	ant
+GET	ant
+FCN	ant
+CER	ant
+TOY	ant
+RIO	ant
+RER	ant
+MER	ant
+M0E	ant
+MAU	ant
+F24	ant
+G6V	ant
+G6M	ant
+BQ1	ant
+
+..	くすり
+EF6	drug
+DGJ	drug
+TA1	drug
+NVN	drug
+NVK	drug
+K4D	drug
+PAR	drug
+017	drug
+CPT	drug
+G39	drug
+CFF	drug
+AZM	drug
+FK5	drug
+BO2	drug
+STI	drug
+IMN	drug
+ZMR	drug
+ZK1	drug
+NVP	drug
+HAE	drug
+478	drug
+1N1	drug
+DIF	drug
+URF	drug
+TPF	drug
+T27	drug
+QPT	drug
+HDA	drug
+ZOL	drug
+DM1	drig
+MK1	drug
+X8Z	drug
+DB8	drug
+SVR	drug
+HFG	drug
+BLM	drug
+VGH	drug
+TYL	drug
+IBP	drug
+B1Z	drug
+
+.	e
+det	detergent
+lip	phospholipid
+ene	energy-carrying molecule
+alg	energy-carrying molecule analogue
+pre	precipitant
+buf	pH buffer
+ant	antibiotic
+drug	medication
+
+.	j
+det	可溶化剤
+lip	リン脂質
+ene	エネルギー貯蔵分子
+alg	エネルギー貯蔵分子類似体
+pre	結晶化用沈殿剤
+buf	pH緩衝剤
+ant	抗生剤
+drug	薬剤
+

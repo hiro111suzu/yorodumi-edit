@@ -1,0 +1,516 @@
+.	spec_holder
+\(the temperature of th.+?\)	
+holder for	
+\..*$	
+HOLER	
+HOLDER	
+SPECIMEN	
+STAGE	
+INSTRUMENTS	
+OXD	OXFORD
+GATHAN	GATAN
+.*626.*	GATAN 626
+.*(GATAN [0-9]{3}).*	$1
+.*3500.*	OXFORD CT3500
+MULTI~SPECIMEN	MULTI SPECIMEN
+
+EUCE[]	_euc_
+SINGLE~TILT	_stil_
+ST 	_stil_
+SIDE~MOUN[]	_se_
+SIDE~ENTRY	_se_
+IDE ENTRY	_se_
+TOP~ENTRY	_te_
+
+CRYO~TRANSFER	cryo
+CRYO~SPECIMEN	cryo
+CRYOHO[]	cryo
+CYRO	cryo
+
+(|LIQUID~)NITROGEN	_nt_
+ln2? cooled	_nt_
+(|LIQUID~)HELIUM	_ht_
+(t_.+?)~COOLED	$1
+(t_.+?)~cryo	$1
+(t_.+?)~temp[]	$1
+ROOM~TEM[]	_rt_
+ROOM~T	_rt_ 
+^RT$	_rt_
+
+^(.*)(_.e_)(.*)$	$1, $3, $2
+^(.*)(_.t_)(.*)$	$1, $3, $2
+^(.*)(_stil_)(.*)$	$1, $3, $2
+^(.*)(_euc_)(.*)$	$1, $3, $2
+
+_rt_	, ROOM TEMP ,
+_nt_	, LIQ-N2 ,
+_ht_	, LIQ-HE ,
+_se_	, SIDE ENTRY , 
+_te_	, TOP ENTRY , 
+_euc_	, EUCENTRIC ,
+_stil_	, SINGLE TILT ,
+SPECIMEN
+FOR
+[\(\)]
+- ?,	,
+ +,	,
+,,+	,
+
+.	microscope
+-FEG	FEG
+([0-9])FEG	$1 FEG
+
+JEM-?([0-9]?)	JEM $1
+JEOL JEM-?	JEOL 
+^JEM	JEOL 
+ELECTRON MICROSCOPE	
+(JEOL [0-9]+) ([A-Z])	$1$2
+(JEOL.+?EX)-(.+)	$1$2
+
+PHILLIPS	FEI
+(FEI|PHILIPS) T 	FEI TECANI 
+^T?F([0-9]+)$	TECNAI F$1
+TECHNAI|TECANI	TECNAI
+^TECNAI	FEI TECNAI
+^TITAN	FEI TITAN
+^(FEI|PHILIPS|PHILLIPS)[- ]	FEI 
+PHILIPS FEI 	FEI 
+FEI\/PHILIPS	FEI
+FEI FEI	FEI
+300SFF	3000SFF
+EFG	FEG
+FEG ST	FEG-ST
+CM 120	CM120
+
+.	elec_source
+FEG	FIELD EMISSION
+ (GUN|SOURCE)$	
+^[0-9]+$	
+EMMISSION	EMISSION
+
+.	detector
+ generic	
+ INC\.	 
+;	
+"	
+BACKTHINED	BACKTHINNED
+camera|detector|\(|\)
+
+K PIXEL	
+..(^| )([0-9]+K)( |$)	$1$2X$2$3
+
+slow[ -]scan	slow scan
+kpixel	
+
+..[0-9]+k ?[x\*]? ?[0-9]+k	
+..([0-9]+?)k[- ]by[- ]([0-9]+?)k	
+..([0-9]+kx[0-9]+k)(.*)$	
+..([0-9]+)x([0-9]+)$	
+..^([0-9]+KX[0-0]+K)$	
+[0-9]+k ?[x\*]? ?[0-9]+ ?k	
+4X4K	
+ +	 
+ 4X4
+ 4k x 4
+
+(EAGLE|FALCON) [0-9]+k	$1
+
+
+(.+?) (Gatan|FEI|KODAK|TVIPS|Tietz)$	$2 $1
+(.+?) (Gatan|FEI|KODAK|TVIPS|Tietz)( .+?)	$2 $1 $3
+(TIETZ|Gatan|FEI) (.+?) (CCD|CMOS)	$1 $2
+(TIETZ|Gatan|FEI) (.+? .+?) (CCD|CMOS)	$1 $2
+(TIETZ|Gatan|FEI) (.+? .+? .+?) (CCD|CMOS)	$1 $2
+(GENERIC) (GATAN|TIETZ)	$2 $1	
+.. general
+CHARGE- ?COUPLED DEVICE	CCD
+
+.. TIETZ
+TVPIS|TVIPS|Tietz|TEITZ	Tietz
+TIETZ\/TVIPS	Tietz
+tem-cam	TemCam
+^TemCam	Tietz TemCam
+TemCam[ -]F	TemCam F
+TIETZ TIETZ	Tietz
+TIETZ BY	Tietz
+
+.. FEI
+FEI DIRECT ELECTRON FALCON	FEI FALCON
+CCD EAGLE|EAGLE CCD	EAGLE
+^(FALCON|EAGLE)	FEI $1
+FEI FEI	FEI
+
+.. GATAN
+Gatan USC?	Gatan UltraScan
+K2 DIRECT DETECTION	K2
+^(K2|ULTRASCAN)	GATAN $1
+ULTRA(|SCAN)([0-9])	UltraScan \2
+
+.. DD
+^(DE-[0-9]+)	DIRECT ELECTRON $1
+
+.. film
+S[0O][\- ]163	SO163
+(KODA[KC]+|) ?(ELECTRON |)S[0O] ?-?163($| FILM)	KODAK SO163 FILM
+(FILM |)KODAK$	KODAK FILM	
+KODAK FILM KODAK |KODAK E.G. KODAK 	KODAK 
+MICROGRAPH FILM -	
+ELECTRON-IMAGE FILM	
+KODAK SO163$	KODAK SO163 FILM
+
+.	ctf_corr
+
+CORRECTION OF RECONSTRUCTION OF EACH	EACH	
+CORRECTIONN	CORRECTION
+^CTF CORRECTION (WAS DONE |)	
+^CTF (OF|FOR|ON|USING|TO|,)	
+^CTF CORRECTION,	
+^THE	
+
+
+BOTH AMPLITUDE AND PHASE	m_ap
+PHASE( AND|,) AMPLITUDE	m_ap
+AMPLITUDE( AND|,) PHASE	m_ap
+
+^DONE (WITH|IN|WITHIN)	
+\.$	
+
+DEFOCUS GROUP AND WIENER FILTER	DEFOCUS GROUP, WIENER FILTER
+
+
+3D[ -]MAPS?	3D MAPS
+CTF WAS CORRECTED FOR 
+
+PARTICLE IMAGE( INDIVIDUALLY|)	PARTICLE
+
+^PER 	EACH 
+INDIVIDUAL ([])	EACH $1
+
+WHOLEIMAGE	WHOLE IMAGE
+CCD (IMAGES?|FRAMES?)	CCD FRAME
+(EACH|WHOLE) (MICROGRAPH|CCD FRAME)	$1 _em
+(EACH|WHOLE) (EM|NEGATIVE|FILM|FRAME)	$1 _em
+WHOLE _EM	o_wem	
+EACH _EM	o_eem
+
+FILTERATION|FILTRATION	FILTER
+
+PHASE[ |-]?FLIP(PED|PING)	m_pf
+PHASE FLIP( FOR)	m_pf
+ONLY PHASES	m_pf
+
+NOT CORRECTED	NONE
+(NO|NONE|NOT)  (|CTF )CORRECTION(| APPLIED)	NONE	
+
+^(OF|FOR) 	
+
+WIENER FILTER	m_wf
+
+EACH PARTICLES?	o_ep
+
+(o_[])(|,| for| by| was) (m_[])	$3 > $1
+(m_[]?)(|,| for| by| was) (o_[])	$1 > $3
+
+o_ep	EACH PARTICLE
+o_wem	WHOLE FILM/CCD
+o_eem	EACH FILM/CCD
+
+m_ap	AMPLITUDE AND PHASE
+m_pf	PHASE FLIP
+m_wf	WIENER FILTER
+
+.	inst_vitr
+^PLUNGER$	OTHER
+\(.+?\)	
+VIROBOT|VITRIBOT|VITOROBOT	VITROBOT
+^VITROBOT	FEI VITROBOT
+VITROBOT~(MARK|MK)~([0-9iv]+)	VITROBOT MARK $2
+MARK 3	MARK III
+own, programs	HOME MADE
+REICHERT-JUNG	Leica
+Reichert	Leica
+KF-([0-9])	KF$1
+
+FR EEZING	FREEZEING
+PLUNGE-FREEZER	PLUNGER
+HOME ?MADE.+	HOME MADE
+NONE	
+
+.	journal
+PROC\.NAT\.ACAD\.SCI\.USA	Proceedings of the National Academy of Sciences of the United States of America
+TO BE PUBLISHED	
+CELL\(CAMBRIDGE,MASS\.\)	CELL
+\.	 
+  +	 
+
+.	rec_soft
+ and,? 	,
+ - 	,
+[0-9]+\.[0-9]+	
+WITH MODIFICATIONS	
+[_ ]TOOLBOX	
+\/WEB	
+SPIDER PACKAGE	SPIDER
+IMAGIC ?[0-9V]+	IMAGIC
+IMAGIC, V	IMAGIC
+SPIDER IMAGIC	SPIDER,IMAGIC
+MRC( IMAGE PROCESSING PROGRAMS| PACKAGE)	MRC
+-[0-9v]	
+\(|\)	
+EMAN[0-9]	EMAN
+CTFFIND[0-9]	CTFFIND
+EM3DR2	EM3DR
+EMAN[ \/]SPARX	EMAN,SPARX
+SOFTWARE BASED ON MRC SYSTEM	,MRC
+BSOF([^A-Z])	BSOFT
+(EMPFT|FREALIGN|SPIDER|EMAN|PFT|P3DR|POR) 	$1,
+(IHRSR|IMAGIC|BSOFT) 	$1,
+-like	
+IN, HOUSE	HOME MADE
+IN-HOUSE(|PROC[])	HOME MADE
+(HOME~MADE|HOUSE|HAND~MADE)	HOME MADE
+HOME MADE (soft[]|pro[])	HOME MADE
+^house$	HOME MADE
+CUSTOM	HOME MADE
+pft2[\/ ]em3dr	PFT2, EM3DR
+EM3DR PFT2	EM3DR, PFT2
+
+MULTI~PATH SIM[] ANNE[](| algorithm),	MULTI-PATH SA,
+MULTI~PATH SIM[] ANNE[](| algorithm)$	MULTI-PATH SA
+
+package	
+
+.	rec_algo
+,? AND 	, 
+;	, 
+
+~(METHOD|PROTOCOL)S?$	
+
+ANGULAR~RECONS[]	_ar_
+(|3D )PROJ[]~MATC[]	_pm_
+(|CROSS~)COMMON~LI[]	_cl_
+BACK~PROJ[]	_bp_
+WEIGHTED~_BP_	_wbp_
+EX[]~FIL[]~_BP_	_fbp_
+CRYSTALLOGRAPHIC$	CRYSTALLOGRAPHY
+RANDOM~CONI[]~TIL[]	_rct_
+\(RCT\)
+ITERATIVE HELICAL REAL SPACE R[]	IHRSR
+HELICAL~(RECONS[])	_HEL_
+HELICAL$	_HEL_
+POLAR FOURIER TRANS[]	_PFT_
+\(PFT\)	
+SINGLE~PARTI[]~(AN[]|REC[])	_SPA_
+SINGLE~PARTI[]	_SPA_
+FOURI[]~BES[]~(|ME[]|SYN[]|REC[])	FOURIER BESSEL
+REFERE[]~BAS[]~(|ALI[]|PRO[]|REF[])	REFERENCE BASED
+PROJECTIONS	PROJECTION
+
+_ar_	ANGULAR RECONSTITUTION
+_pm_	projection matching
+_cl_	common line
+_bp_	back projection
+_wbp_	weighted back projection
+_fbp_	exact filtered back projection
+_rct_	random conical tilt
+_hel_	helical RECONSTRUCTION
+_pft_	POLAR FOURIER TRANSFORM
+_spa_	single particle
+
+.	fit_soft
+[0-9]+\.[0-9]+	
+\.	 
+ and 	,
+[\n\r\t ]+	 
+\(.+\)	 
+ SOFTWARE	
+Nucleocapsid,glycoprotein.+$	
+[0-9]+\.[0-9]+	 
+Fast Motif Search Procedure in SPIDER.+(,|$)	SPIDER
+EMFIT( PROGRAM| SR5)	EMFIT
+CHIMERA MODELLER SITUS	CHIMERA,MODELLER,SITUS
+SITUS V.	s_c
+XPLOR	X-PLOR
+UCSF~CHIMERA	CHIMERA
+Fit in Map (in |)Chimera	CHIMERA
+URO SITUS	URO,s_c
+PROGRAM 	
+NORMAL MODE-BASED FLEXIBLE FITTING	NMFF
+MOLECULAR DYNAMICS BASED FLEXIBLE FITTING	MDFF
+molecular dynamics flexible fitting	MDFF
+ METHOD	
+FOLDHUNTER EMAN	FOLDHUNTER
+FLEXEM	FLEX-EM
+EYE	manual
+AMIRAMOL	AMIRA
+MDFF MDFF	MDFF
+MANUAL FITTING IN 
+
+SITUS\/COLORES	s_c
+COLORES\/SITUS	s_c
+COLORES FROM THE SITUS PACKAGE	s_c
+SITUS from COLORES	s_c
+COLORES	s_c
+SITUS	s_c
+ WAS USED FOR THE FITTING	
+ADPEM	ADP_EM
+
+^(HOME|HOUSE|HAND)~(|MADE)~(|pro[]|sof[])	HOME MADE
+CUSTOM	HOME MADE
+HOMEMADE	HOME MADE
+
+(implementation of|EMBEDDED IN)	,
+
+SPIDER PACKAGE	SPIDER
+TGS SOFTWARE	
+MODELLER-9V7	MODELLER
+
+MULTI~PATH SIM[] ANNE[],	MULTI-PATH SA,
+MULTI~PATH SIM[] ANNE[]$	MULTI-PATH SA
+s_c	SITUS/COLORES
+SITUS\/COLORES \/SITUS\/COLORES	SITUS/COLORES
+
+.	authors
+\.	
+,	
+([^A-Z][A-Z])-	$1
+
+.	reso_method
+ *\. *$	
+GOLD-STANDARD 	
+^FCS 	FSC 
+CUTT?~OFF(| CRIT[])	CUTOFF
+([0-9])~SIGMA	$1*SIGMA
+BOTH (.+?) AND	$1, 
+FOURIER SHELL CRITERION	FSC
+FOURIER RING CORRELATION	FSC
+FSC CURVE	FSC
+FSC (MEASURED |)AT	FSC
+FSC \((.+?)\)	FSC $1
+
+^(0\.143|0\.3|0\.5)$	FSC $1
+^([0-9\.]+) (FSC|CUTOFF)	FSC $1
+(FSC .+?) CUTOFF(.*$)	$1 $2
+FSC (|AT )([0-9\.]+)(| CUT[])	FSC $2
+FSC~(|WITH )(HALF|1\/2|0\.5)~BIT(|WISE| CRI[])	FSC HALF BIT
+
+POINT-SPREAD	POINT SPREAD
+^RESOLUTION DETERMINED BY 	
+^ESTIMATION(| -)
+
+.	compo
+-	 
+.	spec--
+SIMIAN VIRUS 40	sv40
+sv40	SIMIAN VIRUS 40
+ENTERICA .+$	enterica
+ESCHERICHIA COLI .+$	Escherichia coli
+^.*PHAGE PHI29	BACILLUS PHAGE PHI29
+^.*PHAGE PHI6	PSEUDOMONAS PHAGE PHI6
+^.*PHAGE PRD1	ENTEROBACTERIA PHAGE PRD1
+^.*PHAGE T4	ENTEROBACTERIA PHAGE T4
+^.* EPSILON15	ENTEROBACTERIA PHAGE EPSILON15
+(|IM)MATURE	
+PARTICLE	
+VIRION	
+VIRION	
+S. POMBE	Schizosaccharomyces pombe
+
+.	kw
+;	,
+70s e\.coli ribosome	70S ribosome, E. coli
+70s(?! ribosome)	70S ribosome
+80s(?! ribosome)	80S ribosome
+26s(?! proteasome)	26S proteasome
+AAA-atp	AAA ATP
+AAA(\+|plus) (atpases?|proteins?)	AAA+
+-BINDING	 binding
+apc	anaphase promoting complex
+CHAPERONES	chaperone
+CRYO[ -]?ELECTRON	cryo electron
+ELECTRON CRYO MICROSCOP[YE]	cryo-EM
+CRYO ELECTRON MICROSCOP[YE]	cryo-EM
+cryoem	cryo-EM
+ELECTRON CRYO-?MICROSCOPY	cryo-EM
+ELECTRON MICROSCOPY	EM
+
+(CAPSID|FACTOR|TRIMER|SPIKE|CHANGE|POLYMER)S	\1
+
+HSV-1	HSV1
+dengue (?!virus)	dengue virus
+RIBOSOMAL PROTEINS	ribosomal protein
+single-particle	single particle
+sub-tomogram	subtomogram
+secretion system	secretion
+E\.COLI	E. COLI
+(three|3)[ \-]?DIMENSIONAL	3D
+(TWO|3)[ \-]?DIMENSIONAL	2D
+
+.	country
+These authors contributed equally to this work	
+
+^;	
+;$	
+<>	
+^.+, (.+)$	$1
+
+Electronic address:.+$	
+ [^ ]+@[^ ]+	
+\[.+\]	
+[\.; ]+$	
+[0-9]+	
+^ +	
+( +| and)$	
+.*Department .+	
+School of Life Sciences	
+
+\. THESE AUTHOR.+$
+TEXAS	USA
+Massachusetts	USA
+Unit.+King.+|London.*|U\.K	UK
+.+USA$	USA
+P\..+China	China
+Danish.+$	Denmark
+Canada.+	Canada
+.+France	France
+
+^United States.*$	USA
+^United Kingdom$	UK
+^Republic of Korea$	Korea
+^People's Republic of China$	China
+^NY$	USA
+^MA$	USA
+^CA$	USA
+^CT$	USA
+^MD$	USA
+^PA$	USA
+^OH$	USA
+^TX$	USA
+^IN$	USA
+^UT$	USA
+^MN$	USA
+^Tennessee$	USA
+^Indiana$	USA
+^Massachusetts$	USA
+^MRC Centre for.*$	UK
+^Japan.*$	Japan
+^JST$	Japan
+^.*OSAKA UNIVERSITY.*$	Japan
+^UNIVERSITY OF HELSINKI$	FINLAND
+^From the Structure of Macromolecules	Spain
+Madrid	Spain
+^.*Netherlands$	The Netherlands
+^.+Montpellier.+$	France
+
+^.*California NanoSystems Institute.*$	USA
+^and$	USA
+^.*COLLEGE OF.*$	
+^.*Laboratory.*$	
+
+.	search_words
+:+emdatabank\.org:+emd-[0-9]+:+	
+
+.	agg_state
+helicalArray	helical array
+threeDArray	3D array
+twoDArray	2D array

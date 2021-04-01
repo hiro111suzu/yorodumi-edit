@@ -1,0 +1,66 @@
+.	e
+..	avans
+/Avance/i	Avance
+/Avance-/	Avance 
+/AvanceI/	Avance I
+/Avance([0-9])/	Avance $1
+
+..	Varian
+/Varian/i	Varian
+/INOVA/i	INOVA
+
+
+/Agilent|Varian/	Agilent/Varian
+/unity/i	UNITY
+/UnityInova/i	UNITY INOVA
+/UNITYPLUS/i	UNITY PLUS
+/UNITY ?\+/	UNITY PLUS
+/UNITY-/	UNITY 
+/UNITY ([0-9])/	UNITY $1
+
+.	s
+/^MD$/	molecular dynamics
+
+..	chimera
+/^chimera$/i	UCSF Chimera
+/^UCSF[\-_]Chimera/i	UCSF Chimera
+
+..	XPLOR
+/^XPLOR$/i	X-PLOR
+/^X[- _]?PLOR[- _]?NIH$/i	XPLOR-NIH
+
+..	eman
+/^EMAN[ 0-9\.]+$/i	EMAN
+/^(eman boxer|boxer)$/i	EMAN boxer
+/^.*(helixboxer|e2boxer).*$/i	EMAN boxer
+
+..	situs
+/^SITUS COLORES$/i	Situs
+/^Situs[ 0-9\.]+$/i	Situs
+/^colores$/i	Situs
+
+..	CTFFIND
+/^CTFFIND[_ \-0-9\.]+$/i	CTFFIND
+
+..	IMAGIC
+/^IMAGIC[ -_]?[V5]$/i	IMAGIC
+
+..	cns
+/^CNS[ 0-9\.]+/i	CNS
+
+..	cs rosetta
+/^cs[_ ]?rosetta$/i	CS ROSETTA
+
+..	RELION
+/^RELION[_ \-0-9\.]+$/i	RELION
+
+..	GNOM
+/^GNOM[_ \-0-9\.a]+$/i	GNOM
+
+..	CYANA
+/^CYANA[_ \-0-9\.]+$/i	CYANA
+
+..	TOM toolbox
+/TOM toolbox/i	TOM Toolbox
+/TOM_toolbox_software_package/	TOM Toolbox
+/^TOM$/	TOM Toolbox

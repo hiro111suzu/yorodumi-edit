@@ -1,0 +1,210 @@
+.	7
+//	nucleosome
+add_kw	nucleosomes|chromatin|histone|histones
+
+.	20
+//	ポリオウイルスとライノウイルス (Poliovirus and Rhinovirus)
+add_kw	Rhinovirus A|Human poliovirus 1|Human poliovirus 1 Mahoney|Human poliovirus 3|Human poliovirus 2|Rhinovirus B14|Human rhinovirus A2|Human rhinovirus C
+
+.	31
+//	p53腫瘍抑制因子 (p53 Tumor Suppressor)
+add_kw	p53|Tumor Suppressor
+
+.	32
+//	p53腫瘍抑制因子（p53 Tumor Suppressor）
+add_kw	p53|Tumor Suppressor
+
+.	39
+//	lac転写抑制因子 lac Repressor
+//	理論モデルの代わり
+add_pdb	4pyp
+
+.	52
+//	成長ホルモン Growth Hormone
+//	取り消しエントリ 1n9dの代わり
+add_pdb	1rw5
+
+.	65
+add_kw	self-splicing intron|GROUP I INTRON|GROUP II INTRON|ribozyme
+
+.	70
+//	人工設計タンパク質 (Designer Proteins)
+add_kw	de novo protein|designed protein|de novo design
+
+.	81
+add_kw	EF-G|EF-Tu|elongation factor G|Elongation factor Tu	
+
+.	85
+//	インポーチン (Importins)
+add_kw	exportin|karyopherin
+
+.	93
+//	Citrate Synthase / クエン酸合成酵素
+//ng_pdb	1ohg
+
+.	97
+//	概日体内時計タンパク質 (Circadian Clock Proteins)
+add_kw	circadian rhythm
+
+.	98
+//	低分子干渉RNA (Small Interfering RNA)
+add_kw	siRNA
+
+.	113 
+//	インフルエンザ ノイラミニダーゼ (Influenza Neuraminidase)
+add_kw	Neuraminidase
+
+.	126
+//	上皮成長因子 (Epidermal Growth Factor)
+add_kw	egfr|Epidermal growth factor receptor
+
+.	132
+//	アデノウイルス Adenovirus
+//	replace　２段階
+add_pdb	6cgv
+
+.	136
+//	
+add_kw	single-domain vh antibody|vh antibody|nanobody
+
+.	142
+//	PDBの先駆者たち（PDB Pioneers）
+score	0.1
+
+.	144
+//	複合体I (Complex I)
+add_w	nadh-quinone oxidoreductase|respiratory complex I
+
+.	145
+//	伝令RNAのキャップ形成 (Messenger RNA Capping)
+add_kw	messenger rna
+
+.	146
+//	アミノグリコシド系抗生物質（Aminoglycoside Antibiotics）
+add_kw	streptomycin|aminoglycoside inhibitor
+
+.	150
+//	スライディングクランプ (Sliding Clamps)
+add_kw	clamp loader|dna clamp|rfc|pcna|DNA sliding clamp 
+add_pdb	3d1g|6vvo|3u61|3gli
+
+
+.	163
+//	HIVカプシド (HIV Capsid)
+add_item	un:q71b32|in:IPR014817
+add_kw	HIV|HIV-1|Human immunodeficiency virus 1|Human immunodeficiency virus 2|Human immunodeficiency virus
+
+.	168
+//	DNAヘリカーゼ (DNA Helicase)
+add_pdb	6sko
+add_kw	DNA Helicases
+add_item	ec:3.6.4.12
+
+.	171
+//	神経伝達物質輸送体 (Neurotransmitter Transporters)
+add_kw	dopamine transporter|neurotransmitter symporter
+
+.	170
+//	広域中和抗体 (Broadly Neutralizing Antibodies)
+add_kw	Neutralizing Antibodies|neutralizing antibody
+
+.	175
+//	微小管 (Microtubules)
+add_kw	tubulin
+
+.	178
+//	Ebola Virus
+add_kw	ebola virus|ebola
+
+.	181
+//	カスケードとCRISPR (Cascade and CRISPR)
+add_kw	CRISPR|Cas|CRISPR-Cas|cas1|cas2|cas3|cas5|cas9|cas13|CRISPR-Cas system|CRISPR-Cas Systems|CRISPR-Associated Proteins
+
+.	188
+//	テトラヒドロビオプテリンの生合成 (Tetrahydrobiopterin Biosynthesis)
+add_kw	Tetrahydrobiopterin
+
+.	189
+//	アミロイド (Amyloids)
+add_kw	Amyloid fibril
+
+.	194
+//	人工設計インスリン (Designer Insulins)
+add_kw	Insulin
+
+.	200
+//	正二十面体型ウイルスの準対称性 (Quasisymmetry in Icosahedral Viruses)
+add_kw	SIMIAN VIRUS 40|TOMATO BUSHY STUNT VIRUS|BACTERIOPHAGE HK97|SIMIAN VIRUS 40|BLUETONGUE VIRUS
+score	0.1
+add_item	go:0039618|go:0039617|go:0039620|go:0039619|go:0039615|go:0039616|go:0039623|go:0039622|go:0039621
+
+.	205
+//	核膜孔複合体 (Nuclear Pore Complex) 
+add_kw	Nuclear Pore
+
+.	206
+//	グロビンの進化 (Globin Evolution)
+add_kw	globin
+
+.	210
+//	アデニンリボスイッチの動き (Adenine Riboswitch in Action)
+add_kw	adenine riboswitch|riboswitch|purine riboswitch
+
+.	211
+add_kw	Type IV pilus|type ii secretion system|type iv secretion system
+
+.	221
+//	ヒトパピローマウイルスとワクチン (Human Papillomavirus and Vaccines)
+add_kw	Papillomavirus
+	
+.	223
+//	ピエゾ1機械受容チャネル (Piezo1 Mechanosensitive Channel)
+add_kw	piezo|Piezo1|piezo2|Mechanosensitive Channel
+
+.	235
+//	AMPA受容体 (AMPA Receptor)
+add_kw	Ionotropic glutamate receptor
+	
+.	227
+//	テロメラーゼ (Telomerase)
+add_kw	reverse transcriptase|Telomere
+
+.	229
+//	蛍光RNAアプタマー (Fluorescent RNA Aptamers)
+add_kw	fluorescent aptamer
+ng_item	bd:prd_900003
+
+.	230
+//	開始因子eIF4E (Initiation Factor eIF4E)
+add_kw	initiation factor
+
+
+.	231
+//	麻疹ウイルスタンパク質 (Measles Virus Proteins)
+add_kw	measles virus|Measles morbillivirus
+
+.	237
+//	Nanodiscs and HDL
+add_kw	High-Density Lipoprotein
+ng_pdb	4v6m
+
+.	241
+//	Twenty Years of Molecules
+score	0.1
+
+.	250
+//	カプサイシン受容体TRPV1 (Capsaicin Receptor TRPV1)
+add_kw	TRPV1|Capsaicin
+
+.	all
+ng_kw	protein|proteins
+ng_item	bd:prd_900003|in:ipr017907|in:ipr003959
+score_kw	1
+score_unp	10
+score_pdb	100
+
+.	dummy
+add_kw	追加キーワード
+add_item	追加アイテム
+ng_pdb	除外PDB
+ng_item	除外アイテム

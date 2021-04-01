@@ -1,0 +1,944 @@
+.	icon
+Actinia_equina	1
+Acyrthosiphon_pisum	1
+Acytostelium_subglobosum	1
+Aedes_aegypti	1
+Aegilops_speltoides	1
+Aeropyrum_pernix_K1	1
+Ailuropoda_melanoleuca	1
+Alces_alces	1
+Allium_cepa	1
+Amborella_trichopoda	1
+Anas_platyrhynchos	1
+Andrias_japonicus	1
+Anopheles_gambiae	1
+Anopheles_stephensi	1
+Antilocapra_americana	1
+Apis_mellifera	1
+Aplysia_kurodai	1
+Aptenodytes_forsteri	1
+Aquilegia_formosa	1
+Arabidopsis_thaliana	1
+Arachis_hypogaea	1
+Ardea_cinerea	1
+Aspergillus_oryzae	1
+Avena_sativa	1
+Bacillus_subtilis	1
+Balaenoptera_musculus	1
+Beroe_cucumis	1
+Bombyx_mori	1
+Bos_taurus	1
+Brachiosaurus_altithorax	1
+Branchiostoma_floridae	1
+Brassica_napus	1
+Brassica_oleracea	1
+Brassica_rapa	1
+Caenorhabditis_elegans	1
+Callithrix_jacchus	1
+Callorhinus_ursinus	1
+Camelus_dromedarius	1
+Camelus_ferus	1
+Canis_lupus_familiaris	1
+Capra_aegagrus	1
+Capricornis_crispus	1
+Capsicum_annuum	1
+Carassius_auratus_auratus	1
+Carcharodon_carcharias	1
+Casuarius_casuarius	1
+Centruroides_vittatus	1
+Ceratotherium_simum	1
+Cervus_canadensis	1
+Cervus_nippon	1
+Cettia_diphone	1
+Chinchilla_lanigera	1
+Chinemys_reevesii	1
+Choloepus_didactylus	1
+Ciona_intestinalis	1
+Ciona_savignyi	1
+Citrus_clementina	1
+Citrus_sinensis	1
+Columba_livia	1
+Coptotermes_formosanus	1
+Crocodylus_niloticus	1
+Ctenolepisma_villosa	1
+Cycas_rumphii	1
+Cynocephalus_volans	1
+Danio_rerio	1
+Daphnia_pulex	1
+Daubentonia_madagascariensis	1
+Delphinus_delphis	1
+Dictyostelium_discoideum	1
+Diplazium_hachijoense	1
+Diplazium_tomitaroanum_Masam	1
+Dromaius_novaehollandiae	1
+Drosophila_melanogaster	1
+Dugesia_japonica	1
+Dugong_dugon	1
+Echiniscus	1
+Eisenia_fetida	1
+Elaphe_climacophora	1
+Elephas_maximus	1
+Equus_caballus	1
+Escherichia_coli	1
+Eubalaena_japonica	1
+Eumeces_latiscutatus	1
+Felis_silvestris_catus	1
+Filobasidiella_neoformans	1
+Fundulus_heteroclitus	1
+Gallus_gallus	1
+Gasterosteus_aculeatus	1
+Giraffa_camelopardalis	1
+Glandiceps_hacksi	1
+Glycine_max	1
+Gorilla_beringei	1
+Gossypium_hirsutum	1
+Gossypium_raimondii	1
+Guillardia_theta	1
+Haliclona_permollis	1
+Halocynthia_roretzi	1
+Helianthus_annuus	1
+
+Hordeum_vulgare	1
+Hydra_magnipapillata	1
+Hyla_japonica	1
+Hystrix_cristata	1
+Lactuca_sativa	1
+Lama_glama	1
+Larus_ridibundus	1
+Latimeria_chalumnae	1
+Lepus_brachyurus	1
+Loris_lydekkerianus	1
+Lotus_corniculatus	1
+Lotus_japonicus	1
+Loxodonta_africana	1
+Macaca_fascicularis	1
+Macaca_fuscata	1
+Macaca_mulatta	1
+Malus_pumila	1
+Mandrillus_sphinx	1
+Manis_pentadactyla	1
+Medicago_truncatula	1
+Meleagris_gallopavo	1
+Mirounga_leonina	1
+Monodelphis_domestica	1
+Monosiga_brevicollis	1
+Mus_musculus	1
+Mustela_itatsi	1
+Myxine_glutinosa	1
+Neoceratodus_forsteri	1
+Nicotiana_tabacum	1
+Nyctereutes_procyonoides	1
+Okapia_johnstoni	1
+Oncorhynchus_mykiss	1
+Ornithorhynchus_anatinus	1
+Orycteropus_afer	1
+Oryctolagus_cuniculus	1
+Oryza_sativa	1
+Oryzias_javanicus	1
+Oryzias_latipes	1
+Otolemur_crassicaudatus	1
+Ovis_aries	1
+Ovis_canadensis	1
+Pan_paniscus	1
+Pan_troglodytes	1
+Panthera_leo	1
+Panthera_tigris	1
+Papilio_machaon	1
+Papilio_polytes	1
+Papilio_xuthus	1
+Papio_anubis	1
+Papio_hamadryas	1
+Papio_papio	1
+Paracentrotus_lividus	1
+Paramecium_tetraurelia	1
+Petromyzon_marinus	1
+Phaeodactylum_tricornutum	1
+Phoca_largha	1
+Physcomitrella_patens_subsp_patens	1
+Physeter_macrocephalus	1
+Picea_glauca	1
+Picea_sitchensis	1
+Pimephales_promelas	1
+Pinus_taeda	1
+Plasmodium_falciparum	1
+Polypterus_endlicheri	1
+Polysphondylium_pallidum	1
+Pomacentrus_moluccensis	1
+Pongo_pygmaeus	1
+Populus_tremuloides	1
+Populus_trichocarpa	1
+Procavia_capensis	1
+Prosopocoilus_inclinatus	1
+Prunus_persica	1
+Pteranodon_longiceps	1
+Ptychodera_flava	1
+Ramazzottius	1
+Rangifer_tarandus	1
+Raphanus_raphanistrum	1
+Raphanus_sativus	1
+Rattus_norvegicus	1
+Saccharomyces_cerevisiae	1
+Saccharum_officinarum	1
+Salmo_salar	1
+Schistosoma_japonicum	1
+Schistosoma_mansoni	1
+Schizosaccharomyces_pombe	1
+Sciurus_lis	1
+Solanum_lycopersicum	1
+Solanum_tuberosum	1
+Sorghum_bicolor	1
+Spheniscus_magellanicus	1
+Sphenodon_punctatus	1
+Stegosaurus_stenops	1
+Strongylocentrotus_purpuratus	1
+Struthio_camelus	1
+Sus_scrofa_domestica	1
+Sympetrum_frequens	1
+Synechocystis_sp_PCC_6803	1
+Tachyglossus_aculeatus	1
+Taeniopygia_guttata	1
+Takifugu_rubripes	1
+Tapirus_indicus	1
+Torpedo_californica	1
+Toxoplasma_gondii	1
+Tribolium_castaneum	1
+Triceratops_horridus	1
+Trichoplax_adhaerens	1
+Trichosurus_vulpecula	1
+Triticum_aestivum	1
+Trypanosoma_brucei	1
+Tupaia_javanica	1
+Tursiops_truncatus	1
+Tyrannosaurus_rex	1
+Ursus_arctos	1
+Vicugna_pacos	1
+Vitis_vinifera	1
+Vulpes_vulpes	1
+Xenopus_laevis	1
+Xenopus_tropicalis	1
+Xenoturbella_bocki	1
+Zalophus_californianus	1
+Zea_mays	1
+
+.	icon_zoku
+
+Actinia	Actinia_equina
+Acyrthosiphon	Acyrthosiphon_pisum
+Acytostelium	Acytostelium_subglobosum
+Aedes	Aedes_aegypti
+Aegilops	Aegilops_speltoides
+Aeropyrum	Aeropyrum_pernix_K1
+Ailuropoda	Ailuropoda_melanoleuca
+Alces	Alces_alces
+Allium	Allium_cepa
+Amborella	Amborella_trichopoda
+Anas	Anas_platyrhynchos
+Andrias	Andrias_japonicus
+Anopheles	Anopheles_gambiae
+Anopheles	Anopheles_stephensi
+Antilocapra	Antilocapra_americana
+Apis	Apis_mellifera
+Aplysia	Aplysia_kurodai
+Aptenodytes	Aptenodytes_forsteri
+Aquilegia	Aquilegia_formosa
+Arabidopsis	Arabidopsis_thaliana
+Arachis	Arachis_hypogaea
+Ardea	Ardea_cinerea
+Aspergillus	Aspergillus_oryzae
+Avena	Avena_sativa
+Bacillus	Bacillus_subtilis
+Balaenoptera	Balaenoptera_musculus
+Beroe	Beroe_cucumis
+Bombyx	Bombyx_mori
+Bos	Bos_taurus
+Brachiosaurus	Brachiosaurus_altithorax
+Branchiostoma	Branchiostoma_floridae
+Brassica	Brassica_napus
+Brassica	Brassica_oleracea
+Brassica	Brassica_rapa
+Caenorhabditis	Caenorhabditis_elegans
+Callithrix	Callithrix_jacchus
+Callorhinus	Callorhinus_ursinus
+Camelus	Camelus_dromedarius
+Camelus	Camelus_ferus
+Canis	Canis_lupus_familiaris
+Capra	Capra_aegagrus
+Capricornis	Capricornis_crispus
+Capsicum	Capsicum_annuum
+Carassius	Carassius_auratus_auratus
+Carcharodon	Carcharodon_carcharias
+Casuarius	Casuarius_casuarius
+Centruroides	Centruroides_vittatus
+Ceratotherium	Ceratotherium_simum
+Cervus	Cervus_canadensis
+Cervus	Cervus_nippon
+Cettia	Cettia_diphone
+Chinchilla	Chinchilla_lanigera
+Chinemys	Chinemys_reevesii
+Choloepus	Choloepus_didactylus
+Ciona	Ciona_intestinalis
+Ciona	Ciona_savignyi
+Citrus	Citrus_clementina
+Citrus	Citrus_sinensis
+Columba	Columba_livia
+Coptotermes	Coptotermes_formosanus
+Crocodylus	Crocodylus_niloticus
+Ctenolepisma	Ctenolepisma_villosa
+Cycas	Cycas_rumphii
+Cynocephalus	Cynocephalus_volans
+Danio	Danio_rerio
+Daphnia	Daphnia_pulex
+Daubentonia	Daubentonia_madagascariensis
+Delphinus	Delphinus_delphis
+Dictyostelium	Dictyostelium_discoideum
+Diplazium	Diplazium_hachijoense
+Diplazium	Diplazium_tomitaroanum_Masam
+Dromaius	Dromaius_novaehollandiae
+Drosophila	Drosophila_melanogaster
+Dugesia	Dugesia_japonica
+Dugong	Dugong_dugon
+Echiniscus	Echiniscus
+Eisenia	Eisenia_fetida
+Elaphe	Elaphe_climacophora
+Elephas	Elephas_maximus
+Equus	Equus_caballus
+Escherichia	Escherichia_coli
+Eubalaena	Eubalaena_japonica
+Eumeces	Eumeces_latiscutatus
+Felis	Felis_silvestris_catus
+Filobasidiella	Filobasidiella_neoformans
+Fundulus	Fundulus_heteroclitus
+Gallus	Gallus_gallus
+Gasterosteus	Gasterosteus_aculeatus
+Giraffa	Giraffa_camelopardalis
+Glandiceps	Glandiceps_hacksi
+Glycine	Glycine_max
+Gorilla	Gorilla_beringei
+Gossypium	Gossypium_hirsutum
+Gossypium	Gossypium_raimondii
+Guillardia	Guillardia_theta
+Haliclona	Haliclona_permollis
+Halocynthia	Halocynthia_roretzi
+Helianthus	Helianthus_annuus
+
+Hordeum	Hordeum_vulgare
+Hydra	Hydra_magnipapillata
+Hyla	Hyla_japonica
+Hystrix	Hystrix_cristata
+Lactuca	Lactuca_sativa
+Lama	Lama_glama
+Larus	Larus_ridibundus
+Latimeria	Latimeria_chalumnae
+Lepus	Lepus_brachyurus
+Loris	Loris_lydekkerianus
+Lotus	Lotus_corniculatus
+Lotus	Lotus_japonicus
+Loxodonta	Loxodonta_africana
+Macaca	Macaca_fascicularis
+Macaca	Macaca_fuscata
+Macaca	Macaca_mulatta
+Malus	Malus_pumila
+Mandrillus	Mandrillus_sphinx
+Manis	Manis_pentadactyla
+Medicago	Medicago_truncatula
+Meleagris	Meleagris_gallopavo
+Mirounga	Mirounga_leonina
+Monodelphis	Monodelphis_domestica
+Monosiga	Monosiga_brevicollis
+Mus	Mus_musculus
+Mustela	Mustela_itatsi
+Myxine	Myxine_glutinosa
+Neoceratodus	Neoceratodus_forsteri
+Nicotiana	Nicotiana_tabacum
+Nyctereutes	Nyctereutes_procyonoides
+Okapia	Okapia_johnstoni
+Oncorhynchus	Oncorhynchus_mykiss
+Ornithorhynchus	Ornithorhynchus_anatinus
+Orycteropus	Orycteropus_afer
+Oryctolagus	Oryctolagus_cuniculus
+Oryza	Oryza_sativa
+Oryzias	Oryzias_javanicus
+Oryzias	Oryzias_latipes
+Otolemur	Otolemur_crassicaudatus
+Ovis	Ovis_aries
+Ovis	Ovis_canadensis
+Pan	Pan_paniscus
+Pan	Pan_troglodytes
+Panthera	Panthera_leo
+Panthera	Panthera_tigris
+Papilio	Papilio_machaon
+Papilio	Papilio_polytes
+Papilio	Papilio_xuthus
+Papio	Papio_anubis
+Papio	Papio_hamadryas
+Papio	Papio_papio
+Paracentrotus	Paracentrotus_lividus
+Paramecium	Paramecium_tetraurelia
+Petromyzon	Petromyzon_marinus
+Phaeodactylum	Phaeodactylum_tricornutum
+Phoca	Phoca_largha
+Physcomitrella	Physcomitrella_patens_subsp_patens
+Physeter	Physeter_macrocephalus
+Picea	Picea_glauca
+Picea	Picea_sitchensis
+Pimephales	Pimephales_promelas
+Pinus	Pinus_taeda
+Plasmodium	Plasmodium_falciparum
+Polypterus	Polypterus_endlicheri
+Polysphondylium	Polysphondylium_pallidum
+Pomacentrus	Pomacentrus_moluccensis
+Pongo	Pongo_pygmaeus
+Populus	Populus_tremuloides
+Populus	Populus_trichocarpa
+Procavia	Procavia_capensis
+Prosopocoilus	Prosopocoilus_inclinatus
+Prunus	Prunus_persica
+Pteranodon	Pteranodon_longiceps
+Ptychodera	Ptychodera_flava
+Ramazzottius	Ramazzottius
+Rangifer	Rangifer_tarandus
+Raphanus	Raphanus_raphanistrum
+Raphanus	Raphanus_sativus
+Rattus	Rattus_norvegicus
+Saccharomyces	Saccharomyces_cerevisiae
+Saccharum	Saccharum_officinarum
+Salmo	Salmo_salar
+Schistosoma	Schistosoma_japonicum
+Schistosoma	Schistosoma_mansoni
+Schizosaccharomyces	Schizosaccharomyces_pombe
+Sciurus	Sciurus_lis
+Solanum	Solanum_lycopersicum
+Solanum	Solanum_tuberosum
+Sorghum	Sorghum_bicolor
+Spheniscus	Spheniscus_magellanicus
+Sphenodon	Sphenodon_punctatus
+Stegosaurus	Stegosaurus_stenops
+Strongylocentrotus	Strongylocentrotus_purpuratus
+Struthio	Struthio_camelus
+Sus	Sus_scrofa_domestica
+Sympetrum	Sympetrum_frequens
+Synechocystis	Synechocystis_sp_PCC_6803
+Tachyglossus	Tachyglossus_aculeatus
+Taeniopygia	Taeniopygia_guttata
+Takifugu	Takifugu_rubripes
+Tapirus	Tapirus_indicus
+Torpedo	Torpedo_californica
+Toxoplasma	Toxoplasma_gondii
+Tribolium	Tribolium_castaneum
+Triceratops	Triceratops_horridus
+Trichoplax	Trichoplax_adhaerens
+Trichosurus	Trichosurus_vulpecula
+Triticum	Triticum_aestivum
+Trypanosoma	Trypanosoma_brucei
+Tupaia	Tupaia_javanica
+Tursiops	Tursiops_truncatus
+Tyrannosaurus	Tyrannosaurus_rex
+Ursus	Ursus_arctos
+Vicugna	Vicugna_pacos
+Vitis	Vitis_vinifera
+Vulpes	Vulpes_vulpes
+Xenopus	Xenopus_laevis
+Xenopus	Xenopus_tropicalis
+Xenoturbella	Xenoturbella_bocki
+Zalophus	Zalophus_californianus
+Zea	Zea_mays
+
+. e2j
+bacteria	バクテリア
+archaea	古細菌
+eukaryote	真核生物
+fungus	菌類
+yeast	酵母
+arthropod	節足動物
+plant	植物
+animal	動物
+invertebrata 	無脊椎動物
+fish	魚類
+amphibia	両生類
+reptile	爬虫類
+bird	鳥類
+mammal	哺乳類
+human	ヒト
+grape	ブドウ
+E. coli	大腸菌
+brown rat	ドブネズミ
+Seed plant	種子植物
+
+.	thermo
+
+Acidilobus saccharovorans	1
+Acidimicrobium ferrooxidans	1
+Caldalkalibacillus thermarum	1
+Caldanaerobius polysaccharolyticus	1
+Caldicellulosiruptor bescii	1
+Caldicellulosiruptor saccharolyticus	1
+Campylobacter lari	1
+Carboxydothermus hydrogenoformans	1
+Chaetomium thermophilum	1
+Chlorobium tepidum	1
+Chloroflexus aggregans	1
+Chloroflexus aurantiacus	1
+Clostridium stercorarium	1
+Clostridium thermocellum	1
+Dictyoglomus thermophilum	1
+Fervidobacterium islandicum	1
+Hydrogenobacter thermophilus	1
+Methanocaldococcus jannaschii	1
+Methanosarcina thermophila	1
+Methanothermobacter	1
+Methanothermobacter marburgensis	1
+Methanothermus fervidus	1
+Microbispora	1
+Rhodothermus marinus	1
+Rubrobacter xylanophilus	1
+Salinibacter ruber	1
+Spirochaeta thermophila	1
+Streptomyces diastaticus	1
+Streptomyces thermoviolaceus	1
+Thermoanaerobacter 	1
+Thermoproteus 	1
+Sulfurisphaera 	1
+Sulfolobus 	1
+Saccharolobus 	1
+..	古細菌
+Archaeoglobus 	1
+Pyrococcus 	1
+Aeropyrum pernix	1
+Thermococcus 	1
+Pyrobaculum 	1
+Hyperthermus 	1
+Pyrodictium 	1
+Methanopyrus 	1
+Geogemma 	1
+Pyrolobus 	1
+Sulfolobus 	1
+Methanothermo	1
+bacter thermautotrophicus	1
+Thermoplasma 	1
+Nanoarchaeum 	1
+Ignicoccus 	1
+..	バクテリア
+Thermus 	1
+Aquifex aeolicus	1
+Aquifex pyrophilus	1
+Thermotoga 	1
+Thermodesulfobacterium	1
+Geobacillus stearothermophilus	1
+Geobacillus thermoglucosidasius	1
+Thermobifida 	1
+Thermosynechococcus 	1
+Moorella thermoacetica	1
+
+..	真核
+Cyanidiophyceae	1
+Thermomyces 	1
+Chaetomium thermophilum	1
+// Tetrahymena thermophila	1
+
+.	linematch_comment
+..	* 優先度はwikipeの下 前優先
+..	バクテリア
+Campylobacter	カンピロバクター|Campylobacter
+Cyanobacteria	藍藻|Cyanobacteria
+Lactobacillus	乳酸菌
+Lactococcus	乳酸菌
+Chromatiales	紅色硫黄細菌
+Bacillariophyta	珪藻|Diatom
+
+..	真核生物
+Batoidea	エイ|ray
+Echinoidea	ウニ|sea urchin
+Euglenales	ミドリムシ|euglena
+
+Crustacea	甲殻類|crustacean
+Brachyura	カニ|crab
+Lampyridae	ホタル|firefly	
+Lepidoptera	蝶・蛾|butterflies/moths
+Blattodea	ゴキブリ|cockroach
+Coleoptera	甲虫|beetle
+
+Corallimorpharia	イソギンチャク|sea anemone
+Actiniaria	イソギンチャク|sea anemone
+Solanaceae	ナス科
+Aspergillus	カビ|mold
+Elapidae	コブラ|cobra
+Serpentes	ヘビ|snake
+Chamaeleonidae	カメレオン
+Crocodylia	ワニ
+
+Anseriformes	カモ
+Galliformes	キジ
+Anura	カエル|frog
+Trypanosoma	トリパノソーマ
+
+..	植物
+Fabaceae	マメ科
+Magnoliophyta	被子植物
+
+..	哺乳類
+Chiroptera	コウモリ|bat
+Muroidea	ネズミ
+Cercopithecoidea	オナガザル
+
+..	虫
+Araneae	クモ|spider
+Scorpiones	サソリ|scorpion
+Muscomorpha	ハエ|fry
+
+Culicidae	カ|mosquito
+Acari	ダニ
+Limulidae	カブトガニ|horseshoe crabs
+Chilopoda	ムカデ
+Penaeidae	クルマエビ
+Palinuridae	イセエビ
+Bombinae	ミツバチ
+Reduviidae	カメムシ
+Formicidae	アリ
+
+Insecta	昆虫|insect
+
+..	ウイルス
+Podoviridae	ファージ
+Caudovirales	ファージ|bacteriophage
+Cystovirus 	|bacteriophage
+
+..	その他
+metagenomes	メタゲノム
+environmental samples	環境試料|environmental samples
+
+
+.	linematch
+Homo	human
+Archaea	archaea
+Bacteria	bacteria
+Mammalia	mammal
+Viruses	virus
+other sequences	others
+unclassified sequences	others
+
+..	yeast酵母 分類なし
+Saccharomyces	yeast
+Candida	yeast
+Torulopsis	yeast
+Zygosaccharomyces	yeast
+Schizosaccharomyces	yeast
+Pichia	yeast
+Yarrowia	yeast
+Hansenula	yeast
+Kluyveromyces	yeast
+Debaryomyces	yeast
+Geotrichum	yeast
+Wickerhamia	yeast
+Fellomyces	yeast
+Sporobolomyces	yeast
+
+..	菌類
+Fungi	fungus
+
+..	植物
+Viridiplantae	plant
+
+..	
+Spermatophyta	Seed plant
+
+..	節足動物
+Arthropoda	arthropod
+
+..	鳥類
+Aves	bird
+
+..	爬虫類
+Archosauria	reptile
+Reptilia	reptile
+Sauria	reptile
+
+..	両生類
+Amphibia	amphibia
+Tetrapoda	amphibia
+
+..	魚
+Vertebrata	fish
+
+..	無脊椎動物
+Metazoa	invertebrata
+
+..	その他の真核生物
+Eukaryota	eukaryote
+
+.	short
+Unidentified	未定義
+
+..	Archaea
+Haloarcula	好塩性|Halophile
+Halobacterium	好塩性|Halophile
+Sulfolobus	好気性・好酸性|acidophilic
+Methanocaldococcus	メタン生成菌
+Thermoplasma acidophilum	好酸性|acidophilic
+
+..	bacteria
+Salmonella	サルモネラ菌
+
+Magnetospirillum	走磁性|magnetotactic
+Azotobacter	窒素固定
+
+Agrobacterium tumefaciens	植物への病原性
+
+Enterococcus faecalis	乳酸球菌
+Deinococcus radiodurans	放射線耐性|radioresistant
+
+Sinorhizobium	根粒菌
+Rhizobium	根粒菌
+Bradyrhizobium	根粒菌
+Mesorhizobium	根粒菌
+
+Rhodopseudomonas palustris 	光合成細菌|phototrophic
+Lactococcus	乳酸菌|lactic acid bacteria
+Bacillus anthracis	炭疽菌
+Streptomyces griseus	ストレプトマイシン生産菌
+Streptomyces kanamyceticus	カナマイシン生産菌
+Bacillus subtilis subsp. natto	納豆菌
+
+..	真核
+Caenorhabditis elegans	センチュウ
+Dictyostelium discoideum	キイロタマホコリカビ
+Acytostelium subglobosum	細胞性粘菌
+Gallus gallus	ニワトリ
+Sus scrofa	ブタ
+Homo sapiens	ヒト
+Mus musculus	ハツカネズミ
+Rattus norvegicus	ドブネズミ
+	
+Hirudo medicinalis	医用ビル|medicinal leech
+
+Araneus	オニグモ|diadem spider
+Araneae	クモ|spider
+Haplopelma	クモ|spider
+Leiurus	サソリ|scorpion
+Limulus	カブトガニ
+
+Todarodes	イカ|squid
+Loligo	イカ|squid
+
+Aegilops speltoides	クサビコムギ
+
+Armoracia rusticana	セイヨウワサビ|horseradish
+Oryza sativa	イネ|rice
+Arabidopsis thaliana	シロイヌナズナ|thale cress
+Glycine max	ダイズ|soybean
+Pisum	エンドウ|peas
+Spinacia	ホウレンソウ|spinach
+Hordeum	オオムギ|barley
+Phaseolus	インゲン| French bean| kidney bean
+Saponaria	シャボンソウ|soapwort
+Scenedesmus	イカダモ
+Chlamydomonas	クラミドモナス
+
+Aequorea victoria	オワンクラゲ|jellyfish
+
+xenopus laevis	アフリカツメガエル|African clawed frog
+Synthetic	人工物
+Saccharomyces cerevisiae	パン酵母
+Schizosaccharomyces pombe	分裂酵母
+Strongylocentrotus purpuratus	ムラサキウニ
+Danio rerio	ゼブラフィッシュ
+Oryctolagus cuniculus	ウサギ
+Canis lupus familiaris	イヌ
+Spodoptera frugiperda	ツマジロクサヨトウ
+
+.	short_part
+
+.	short_virus
+Influenza A	A型インフルエンザウイルス
+Influenza B 	B型インフルエンザウイルス
+Influenza	インフルエンザウイルス
+Poliovirus	ポリオウイルス
+Rift Valley fever	リフトバレー熱ウイルス
+Human adenovirus	ヒトアデノウイルス
+adenovirus	アデノウイルス
+Human immunodeficiency virus	ヒト免疫不全ウイルス
+Rice dwarf virus	イネ萎縮ウイルス
+Rous sarcoma virus	ラウス肉腫ウイルス
+Enterobacteria phage t4	T4ファージ
+Escherichia virus T4	T4ファージ
+West Nile virus	西ナイルウイルス
+Sputnik virophage	スプートニクヴィロファージ
+Cowpea mosaic virus	ササゲモザイクウイルス
+
+.	short_part_virus
+coxsackievirus	コクサッキーウイルス
+Human alphaherpesvirus 3	水痘・帯状疱疹ウイルス
+herpes simplex virus	単純ヘルペスウイルス
+
+herpesvirus	ヘルペスウイルス
+enterovirus	エンテロウイルス
+poliovirus	ポリオウイルス
+dengue	デング熱ウイルス
+rhinovirus	ライノウイルス
+zika	ジカ熱ウイルス
+hepatitis c	C型肝炎ウイルス
+ebola	エボラウイルス
+papillomavirus	パピローマウイルス
+hiv-1	ヒト免疫不全ウイルス
+sars coronavirus	SARSコロナウイルス
+influenza	インフルエンザウイルス
+
+phage lambda	λファージ
+phage	ファージ
+norwalk virus	ノロウイルス
+adeno-associated	アデノ随伴ウイルス
+
+.	ng_jshort
+トウキビ	1
+ナンバン	1
+
+.	emdb_img
+..	virus
+Human immunodeficiency virus	1155
+Human immunodeficiency virus type 1	1155
+Human immunodeficiency virus 1	1155
+
+Human herpesvirus 1	5452
+Human herpesvirus	5452
+Zika virus	8116
+Bombyx mori cypovirus	1508
+Human papillomavirus	5837
+Chikungunya virus	5577
+Rift Valley fever virus	1549
+Foot-and-mouth disease virus	3631
+Acanthamoeba polyphaga mimivirus	5039
+Mimivirus	5039
+
+Human adenovirus	1016
+Human adenovirus 2	1016
+Dengue virus	2142
+Dengue virus 1	2142
+Pseudomonas virus phiKZ	1415
+Pseudomonas virus phi6	1301
+
+Dengue virus 2	5520
+Bombyx mori cypovirus 1	6321
+Paramecium bursaria Chlorella virus 1	5384
+Hepatitis B virus	1400
+Human alphaherpesvirus 1	5452
+unidentified influenza virus	4034
+Human gammaherpesvirus 8	1320
+Human betaherpesvirus 5	5696
+Dengue virus 3	5934
+Human papillomavirus type 16	5932
+Human adenovirus 5	1579
+Infectious bursal disease virus	1238
+Suid alphaherpesvirus 1	5655
+Tobacco mosaic virus	1730
+JC polyomavirus	5183
+Dengue virus 4	2485
+Staphylococcus virus 80alpha	5236
+Rice dwarf virus	2782
+Simian rotavirus A/SA11	2573
+Nudaurelia capensis omega virus	1608
+Hepatovirus A	6686
+Japanese encephalitis virus	6685
+Cowpea mosaic virus	3013
+Sulfolobus turreted icosahedral virus 1	5584
+Human herpesvirus 5 strain AD169	8703
+Semliki Forest virus	1015
+Brome mosaic virus	6000
+Influenza A virus	8088
+Enterovirus A71	5558
+Enterovirus D68	7569
+Human poliovirus 1 Mahoney	1113
+Human gammaherpesvirus 4	30146
+
+.. 	phage
+Bacillus phage phi29	1265
+Bacillus virus phi29	1265
+
+Enterobacteria phage t7	1163
+Enterobacteria phage T7	1163
+Escherichia phage T7	1163
+
+Enterobacterio phage MS2	1431
+Enterobacteria phage MS2	1431
+
+Escherichia virus T4	2774
+Enterobacteria phage t4	2774
+Bacteriophage t4	2774
+
+Enterobacteria phage p22	8005
+Bacteriophage p22	8005
+Salmonella virus P22	8005
+
+Escherichia virus Lambda	5012
+Escherichia virus Qbeta	8254
+Salmonella virus PRD1	2438
+Enterovirus A71	5558
+Shigella virus Sf6	5730
+Escherichia virus N4	1475
+Coxsackievirus B3	6636
+Escherichia virus P1	5012
+African Swine Fever Virus	0815
+Coxsackievirus A10	9600
+Macaca mulatta polyomavirus 1	5187
+Fako virus	7944
+Deformed wing virus	3570
+Staphylococcus phage P68	4459
+Salmonella phage epsilon15	1175
+.	wikipe_img
+..	virus
+Severe acute respiratory syndrome coronavirus 2	7/76/Novel_Coronavirus_SARS-CoV-2.jpg
+Severe acute respiratory syndrome-related coronavirus	7/78/Coronaviruses_004_lores.jpg
+Vaccinia virus	8/8c/Vaccinia_virus_PHIL_2143_lores.jpg
+Human poliovirus 1	c/cb/Polio.jpg
+Ebola virus - Mayinga, Zaire, 1976	f/ff/Ebola_virus_em.jpg
+Ebola virus	f/ff/Ebola_virus_em.jpg
+Zaire ebolavirus	f/ff/Ebola_virus_em.jpg
+Middle East respiratory syndrome-related coronavirus	8/87/MERS-CoV_electron_micrograph1.jpg
+Measles morbillivirus	6/62/Measles_virus.JPG
+Norwalk virus	7/7b/Norwalk.jpg
+Hepacivirus C	3/3b/HCV_EM_picture_2.png
+
+..	bac
+Mycobacterium tuberculosis	0/0a/TB_Culture.jpg
+Pseudomonas aeruginosa	b/b3/Pseudomonas.jpg
+Streptococcus pneumoniae	2/20/Streptococcus_pneumoniae.jpg
+Staphylococcus aureus	5/57/Staphylococcus_aureus_01.jpg
+Helicobacter pylori	d/d6/EMpylori.jpg
+Vibrio cholerae	f/f6/Vibrio_cholerae.jpg
+Enterococcus faecalis	4/4a/Enterococcus_faecalis20023-300.jpg
+Staphylococcus aureus subsp. aureus	5/57/Staphylococcus_aureus_01.jpg
+Yersinia pestis	d/d0/Yersinia_pestis.jpg
+Clostridium botulinum 	/f/f0/Clostridium_botulinum.jpg
+Campylobacter jejuni	d/df/ARS_Campylobacter_jejuni.jpg
+Clostridium perfringens	5/5e/Clostridium_perfringens.jpg
+Legionella pneumophila	7/7d/Legionella_pneumophila_01.jpg
+..	other
+Chlamydomonas reinhardtii	3/3c/Chlamydomonas6-1.jpg
+Aequorea victoria	7/73/Aequorea4.jpg
+Tetronarce californica	0/0a/Torpedo_californica2.jpg
+Canavalia ensiformis	1/16/Canava1.jpg
+Tetrahymena thermophila	0/08/Tetrahymena_thermophila.png	
+Fusarium oxysporum	f/f9/K7725-1-sm.jpg
+Leishmania mexicana	3/3b/Leishmania_mexicana.jpg
+Amphitrite ornata	e/e8/Amphitrite_ornata.gif	
+Cryptosporidium parvum	9/99/Cryptosporidium_parvum_01.jpg	
+Lymnaea stagnalis	d/d6/Water_snail_Rex_2.jpg
+Giardia intestinalis	0/08/Giardia_lamblia_SEM_8698_lores.jpg
+Spodoptera frugiperda	4/44/Spodoptera_frugiperda.jpg
+Psophocarpus tetragonolobus	e/e4/Psophocarpus_tetragonolobus_Blanco2.293.png
+Lupinus luteus	2/2b/Illustration_Lupinus_luteus1.jpg
+Cicer arietinum	5/55/Chickpea_pods.jpg
+Pisum sativum	4/4e/Peas_in_pods_2016_G1.jpg
+Vicia faba	5/58/Broad-beans-after-cooking.jpg
+Hevea brasiliensis	2/2c/Rubber_tree_plantation.JPG
+Ficus carica	e/e5/Feige-Schnitt.png
+Artocarpus integer	0/0a/Berthe_Hoola_van_Nooten38.jpg
+Pyrus pyrifolia	e/e3/Nasi.jpg
+Carica papaya	8/84/Carica_papaya_-_Köhler–s_Medizinal-Pflanzen-029.jpg
+Ananas comosus	b/be/Ananas_pflanze.jpg
+Cricetulus griseus	4/4f/Chinesedsaffa.jpg
+Entamoeba histolytica	c/cb/Entamoeba_histolytica_01.jpg
+Rhodnius prolixus	b/b9/Rhodnius_prolixus.jpg
+Vibrio parahaemolyticus	5/55/Vibrio_parahaemolyticus_01.jpg
+Scapharca inaequivalvis	e/e3/AnadaraPliocene.jpg
+Staphylococcus epidermidis	e/e0/Staphylococcus_epidermidis_01.png
+Chlamydia trachomatis	a/aa/ChlamydiaTrachomatisEinschlusskörperchen.jpg
+

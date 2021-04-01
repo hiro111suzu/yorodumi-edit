@@ -1,0 +1,54 @@
+﻿.	emdb
+/ Sus[0-9]+ Mutant/	
+/\bmutant\b/i	
+/Immature/i	
+/ procapcid/i	
+
+.	sas
+/\((strain.+?)\)/	{{$1}}
+/\((.+?)\)/	
+/{{(.+?)}}/	($1)
+/^Mouse$/ 	Mus musculus
+/^Human$/	Homo sapiens
+/E\. ?coli/	Escherichia coli
+/B\. ?subtilis/	Bacillus subtilis
+/S\. ?pombe/	Saccharomyces pombe
+/ \/ Homo sapiens/ 	, Homo sapiens
+/^Streptococcus pneumonia$/ 	Streptococcus pneumoniae
+
+.	rep
+eschericia coli	Escherichia coli
+escherchia coli	Escherichia coli
+e. coli	Escherichia coli
+de novo protein	Synthetic construct
+synthetic compound	Synthetic construct
+designed protein	Synthetic construct
+artificially designed de novo protein	Synthetic construct
+bacteriophage phi6	Pseudomonas phage phi6
+designed synthetic gene	Synthetic construct
+escherichia coli bl21(de3)plyss	Escherichia coli BL21(DE3)
+epsilon15	Enterobacteria phage epsilon15
+dengue virus serotype 2	Dengue virus 2
+human immunodeficiency virus-1	Human immunodeficiency virus 1
+herpes simplex virus type i	Herpes Simplex Virus Type 1
+human herpes simplex virus type 1	Herpes simplex virus type 1
+bacteriophage 80alpha	Staphylococcus virus 80alpha
+Adenovirus serotype 5	Human adenovirus 5
+Thermus thermophilus phage TMA	Thermus phage TMA
+Great Salt Lake bacteriophage CW02	Salinivibrio phage CW02
+SARS coronavirus 2	Severe acute respiratory syndrome coronavirus 2
+
+.	emdb_host_rep
+ecoli	Escherichia coli
+e. coli	Escherichia coli
+e.coli	Escherichia coli
+
+.	emdb_host_wrong_pair
+110829	Homo sapiens
+
+.	virus2host
+Norwalk virus	Homo sapiens
+Vaccinia virus	Homo sapiens
+Enterobacteria phage RB69	Escherichia coli
+Severe acute respiratory syndrome coronavirus 2	Homo sapiens
+Machupo mammarenavirus	Homo sapiens

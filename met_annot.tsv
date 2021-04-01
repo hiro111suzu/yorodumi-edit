@@ -1,0 +1,451 @@
+
+.	url
+
+..	ソフト x-ray
+
+s:refmac	http://www.ccp4.ac.uk/html/refmac5.html
+s:hkl-2000	https://hkl-xray.com/hkl-2000
+s:prochek	https://www.ebi.ac.uk/thornton-srv/software/PROCHECK/
+s:molmol	https://sourceforge.net/projects/molmol/
+s:csi	http://www.bionmr.ualberta.ca/bds/software/csi/latest/csi.html
+s:phaser	http://www.ccp4.ac.uk/html/phaser.html
+s:ccp4	http://www.ccp4.ac.uk/
+s:coot	https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/
+s:o	http://xray.bmc.uu.se/alwyn/TAJ/Home.html
+s:cns	http://structure.usc.edu/cns/
+s:xds	http://xds.mpimf-heidelberg.mpg.de/
+s:scala	http://www.ccp4.ac.uk/html/scala.html
+s:molrep	http://www.ccp4.ac.uk/html/molrep.html
+s:mosflm	https://www.mrc-lmb.cam.ac.uk/harry/mosflm/
+s:xscale	http://xds.mpimf-heidelberg.mpg.de/html_doc/xscale_program.html
+s:amore	http://www.ccp4.ac.uk/html/amore.html
+s:aimless	http://www.ccp4.ac.uk/html/aimless.html
+s:hkl-3000	http://www.hkl-xray.com/hkl-3000
+s:nmrpipe	https://www.ibbr.umd.edu/nmrpipe/
+s:buster	http://www.globalphasing.com/buster/
+s:cyana	http://www.cyana.org/wiki/index.php/Main_Page
+s:blu-ice	http://smb.slac.stanford.edu/research/developments/blu-ice/
+s:sharp	https://www.globalphasing.com/sharp/
+s:mlphare	http://www.ccp4.ac.uk/html/mlphare.html
+s:imosflm	https://www.mrc-lmb.cam.ac.uk/harry/imosflm/
+s:xia2	https://xia2.github.io/
+s:dm	http://www.ccp4.ac.uk/dist/html/dm.html
+
+..	ソフト EM
+s:mrc	https://www2.mrc-lmb.cam.ac.uk/research/locally-developed-software/image-processing-software/
+s:relion	https://www2.mrc-lmb.cam.ac.uk/relion/
+s:spider	https://spider.wadsworth.org/
+s:eman2	http://blake.bcm.edu/emanwiki/EMAN2
+s:eman	http://blake.bcm.edu/emanwiki/EMAN
+s:frealign	http://grigoriefflab.janelia.org/frealign
+s:imod	http://bio3d.colorado.edu/imod/
+s:imagic	https://www.imagescience.de/imagic_em.html
+s:ctffind	http://grigoriefflab.janelia.org/ctffind4
+s:xmipp	http://xmipp.cnb.csic.es/twiki/bin/view/Xmipp/WebHome
+s:sparx	http://sparx-em.org/
+s:mdff	http://www.ks.uiuc.edu/Research/mdff/
+s:serialem	http://bio3d.colorado.edu/SerialEM/
+s:situs	http://situs.biomachina.org/
+s:auto3dem	https://cryoem.ucsd.edu/wikis/software/start.php?id=auto3dem:home
+s:gctf	https://www.mrc-lmb.cam.ac.uk/kzhang/
+s:gautomatch	https://www.mrc-lmb.cam.ac.uk/kzhang/
+s:peet	https://bio3d.colorado.edu/PEET/
+s:leginon	http://emg.nysbc.org/redmine/projects/leginon/wiki/Leginon_Homepage
+s:cryosparc	https://cryosparc.com/
+s:protomo	http://www.electrontomography.org/
+s:ctffind4	http://grigoriefflab.janelia.org/ctffind4
+s:appion	http://www.appion.org
+s:tomo3d	https://sites.google.com/site/3demimageprocessing/tomo3d
+s:tom toolbox	http://www.biochem.mpg.de/tom
+s:signature	http://grigoriefflab.janelia.org/signature
+s:frealix	http://grigoriefflab.janelia.org/frealix
+s:scipion	http://scipion.i2pc.es/
+s:imagic-4d	https://www.imagescience.de/imagic-4d.html
+s:eos	http://www.yasunaga-lab.bio.kyutech.ac.jp/ja/reserach/eos/eos-download-sites/
+s:cistem	https://cistem.org/
+s:pytom	http://pytom.org/
+s:jspr	http://jiang.bio.purdue.edu/jspr
+s:dynamo	https://wiki.dynamo.biozentrum.unibas.ch/
+s:warp	https://github.com/cramerlab/warp
+s:motioncorr2	https://emcore.ucsf.edu/ucsf-motioncor2
+..	ソフト NMR
+s:procheck-nmr	https://www.ebi.ac.uk/thornton-srv/software/PROCHECK/
+s:xplor-nih	https://nmr.cit.nih.gov/xplor-nih/
+s:molprobity	http://molprobity.biochem.duke.edu/
+s:kujira	http://bmrbdep.pdbj.org/en/nmrtoolbox/
+s:magro	http://bmrbdep.pdbj.org/en/nmrtoolbox/
+s:nrmview	http://www.onemoonscientific.com/
+s:sparky	https://www.cgl.ucsf.edu/home/sparky/
+s:autostructure	http://www.nmr2.buffalo.edu/nesg.wiki/AutoStructure
+
+..	ソフト sas
+s:dammif	https://www.embl-hamburg.de/biosaxs/dammif.html
+s:bunch	https://www.embl-hamburg.de/biosaxs/bunch.html
+s:gnom	https://www.embl-hamburg.de/biosaxs/gnom.html
+s:dammin	https://www.embl-hamburg.de/biosaxs/dammin.html
+s:primus	https://www.embl-hamburg.de/biosaxs/primus.html
+s:gasbor	https://www.embl-hamburg.de/biosaxs/gasbor.html
+s:monsa	https://www.embl-hamburg.de/biosaxs/monsa.html
+s:sasref	https://www.embl-hamburg.de/biosaxs/sasref.html
+s:coral	https://www.embl-hamburg.de/biosaxs/coral.html
+s:oligomer	https://www.embl-hamburg.de/biosaxs/oligomer.html
+s:crysol	https://www.embl-hamburg.de/biosaxs/crysol.html
+s:cs-rosetta	https://spin.niddk.nih.gov/bax/software/CSROSETTA/
+
+..	ソフト misc
+s:chimera	https://www.cgl.ucsf.edu/chimera/
+s:ucsf chimera	https://www.cgl.ucsf.edu/chimera/
+s:rosetta	https://www.rosettacommons.org/	
+s:phenix	http://www.phenix-online.org/
+s:pdb_extract	https://sw-tools.rcsb.org/apps/PDB_EXTRACT/
+s:modeller	https://salilab.org/modeller/
+s:amber	http://ambermd.org/
+s:namd	http://www.ks.uiuc.edu/Research/namd/
+s:gromacs	http://www.gromacs.org/
+s:pisa	http://www.ebi.ac.uk/msd-srv/pisa/
+
+.	wikipe
+..	method
+m:isas	Single-wavelength anomalous dispersion
+m:isir	Isomorphous replacement
+m:isiras	Isomorphous replacement|Anomalous scattering
+m:miras	Isomorphous replacement|Anomalous scattering
+m:molecular replacement	Molecular replacement
+m:mr	Molecular replacement
+
+m:sir	Isomorphous replacement
+m:siras	Isomorphous replacement|Anomalous scattering
+
+m:mir	Multiple isomorphous replacement
+m:mad	Multi-wavelength anomalous dispersion
+m:sad	Single-wavelength anomalous dispersion
+m:dm	Direct methods (crystallography)
+m:direct method	Direct methods (crystallography)
+
+m:free electron laser	Free-electron laser
+m:x-ray diffraction	X-ray crystallography|Crystallography
+m:solution scattering	Biological small-angle scattering
+m:fourier synthesis	Fourier analysis
+m:fiber diffraction	Fiber diffraction
+m:gel filtration	Size-exclusion chromatography
+m:light scattering	Scattering
+m:microscopy	Microscopy
+m:saxs	Small-angle X-ray scattering
+m:immunoprecipitation	Immunoprecipitation
+m:surface plasmon resonance	Surface plasmon resonance
+m:scanning transmission electron microscopy	Scanning transmission electron microscopy
+m:fluorescence resonance energy transfer	Förster resonance energy transfer
+..	soft
+s:relion	x
+s:mrc	x
+s:spider	x
+s:peet	x
+s:amber	AMBER
+s:namd	NAMD
+s:x-plor	X-PLOR
+s:xplor-nih	XPLOR-NIH
+s:nmrpipe	Nmrpipe
+s:cyana	CYANA (Software)
+s:imod	IMOD (software)
+s:o	x
+s:sparx	x
+s:rosetta	x
+s:modeller	MODELLER
+s:gromacs	GROMACS
+s:oligomer	x
+s:ccp4	Collaborative Computational Project Number 4
+s:ucsf chimera	UCSF Chimera
+s:matlab	MATLAB
+s:coot	Coot (software)
+
+..	装置
+e:rotating anode	X-ray tube
+e:synchrotron	Synchrotron
+e:free electron laser	Free-electron laser
+e:field emission gun	Field emission gun
+
+..	nmr
+m:ecosy	Exclusive correlation spectroscopy
+m:hsqc	Heteronuclear single quantum coherence spectroscopy
+m:hnca	HNCA experiment
+m:hncoca	HNCOCA experiment
+
+.	comment
+m:dm	Direct Methods
+m:isas	Iterative Single wavelength Anomalous Scattering
+m:isir	Iterative Single Isomorphous Replacement
+m:isiras	Iterative Single Isomorphous Replacement with Anomalous Scattering
+m:mad	Multi wavelength Anomalous Diffraction
+m:sad	Single wavelength Anomalous Diffraction
+m:mir	Multiple Isomorphous Replacement
+m:miras	Multiple Isomorphous Replacement with Anomalous Scattering,
+m:mr	Molecular Replacement
+m:sir	Single Isomorphous Replacement
+m:siras	Single Isomorphous Replacement with Anomalous Scattering
+m:helical reconstruction	"helical reconstruction" in a wide sense
+
+s:eman	includes "boxer"
+s:situs	includes "COLRES"
+
+m:cosy	Correlation spectroscopy
+m:ecosy	Exclusive correlation spectroscopy
+m:tocsy	Total correlation spectroscopy
+m:inadequate	Incredible natural-abundance double-quantum transfer experiment 
+m:hsqc	Heteronuclear single-quantum correlation spectroscopy
+m:hmbc	Heteronuclear multiple-bond correlation spectroscopy
+m:noesy	Nuclear Overhauser effect spectroscopy
+m:roesy	Rotating frame nuclear Overhauser effect spectroscopy
+m:trosy	Transverse relaxation-optimized spectroscopy
+m:hetcor	Heteronuclear correlation
+m:redor	Rotational Echo DOuble Resonance
+
+
+..	シンクロトロン個別
+
+.	e:aps
+url	https://www.aps.anl.gov/
+wikipe	Advanced Photon Source
+place	Illinois, USA
+
+.	e:esrf
+url	http://www.esrf.eu/
+wikipe	European Synchrotron Radiation Facility
+place	Grenoble, France
+
+.	e:nsls
+url	https://www.bnl.gov/ps/
+wikipe	National Synchrotron Light Source
+place	Upton, New York, USA
+
+.	e:nsls-ii
+url	https://www.bnl.gov/ps/
+wikipe	National Synchrotron Light Source II
+place	Upton, New York, USA
+
+.	e:als
+url	https://als.lbl.gov/
+wikipe	Advanced Light Source
+place	Berkeley, California, USA
+
+.	e:diamond
+url	http://www.diamond.ac.uk/Home.html
+wikipe	Diamond Light Source
+place	Oxfordshire, UK
+
+.	e:ssrl
+url	http://www-ssrl.slac.stanford.edu/
+wikipe	Stanford Synchrotron Radiation Lightsource
+place	San Mateo County, California, USA
+
+.	e:sls
+url	https://www.psi.ch/sls/
+wikipe	Swiss Light Source
+place	Switzerland
+
+.	e:spring-8
+url	http://www.spring8.or.jp/
+wikipe	SPring-8
+place	Hyogo, Japan
+
+.	e:photon factory
+url	https://www2.kek.jp/imss/pf/
+wikipe	Photon Factory
+place	Tsukuba, Japan
+
+.	e:ssrf
+url	http://e-ssrf.sinap.cas.cn/
+wikipe	Shanghai Synchrotron Radiation Facility
+place	Shanghai, China
+
+.	e:embl/desy, hamburg
+url	http://www.desy.de/
+wikipe	DESY
+place	Hamburg, Germany
+
+.	e:bessy
+url	https://www.helmholtz-berlin.de/quellen/bessy/index_en.html
+wikipe	BESSY
+place	Berlin, Germany
+
+.	e:chess
+url	https://www.chess.cornell.edu/
+wikipe	Cornell Laboratory for Accelerator-based Sciences and Education
+place	Ithaca, New York, USA
+
+.	e:australian synchrotron
+url	http://www.synchrotron.org.au/
+wikipe	Australian Synchrotron
+place	Melbourne, Victoria, Australia
+
+.	e:srs
+wikipe	Synchrotron Radiation Source
+place	Cheshire, UK
+
+.	e:pal/pls
+url	http://pal.postech.ac.kr/paleng/
+place	Pohang, Korea
+comment	Pohang Accelerator Laboratory / Pohang Light Source
+
+.	e:pal-xfel
+place	Pohang, Korea
+comment	Pohang Accelerator Laboratory X-ray Free Electron Laser
+
+.	e:soleil
+url	https://www.synchrotron-soleil.fr/
+place	Essonne, France
+wikipe	SOLEIL
+
+.	e:sacla
+url	http://xfel.riken.jp/
+place	Hyogo, Japan
+wikipe	SACLA
+comment	free-electron laser (X-FEL)
+
+.	e:doris iii x33
+url	http://www.desy.de/research/facilities__projects/doris/
+wikipe	DESY
+place	Hamburg, Germany
+
+.	e:clsi
+url	http://www.lightsource.ca/	
+wikipe	Canadian Light Source
+place	Saskatoon, Saskatchewan, Canada
+
+.	e:nsrrc
+url	https://www.nsrrc.org.tw/
+wikipe	National Synchrotron Radiation Research Center
+place	Hsinchu, Taiwan
+
+.	e:elettra
+url	https://www.elettra.trieste.it/
+wikipe	ELETTRA
+place	Trieste, Italy
+
+.	e:lnls
+url	http://www.lnls.cnpem.br/
+wikipe	Laboratório Nacional de Luz Síncrotron
+place	São Paulo, Brazil
+
+.	e:alba
+url	https://www.cells.es/en
+wikipe	ALBA (synchrotron)
+place	Catalonia, Spain
+
+.	e:bsrf
+url	http://english.bsrf.ihep.cas.cn/
+place	Beijing, China
+
+.	e:aichisr
+url	http://www.astf-kha.jp/synchrotron/
+place	Aichi, Japan
+
+.	e:camd
+url	http://www.lsu.edu/camd/
+place	Baton Rouge, USA
+
+.	e:soleil swing
+url	https://www.synchrotron-soleil.fr/fr/lignes-de-lumiere/swing
+place	Essonne, France
+
+.	e:max ii
+wikipe	MAX IV Laboratory
+url	https://www.maxiv.lu.se/
+place	Sweden
+
+.	e:max_ii
+wikipe	MAX IV Laboratory
+url	https://www.maxiv.lu.se/
+place	Sweden
+
+.	e:max iv
+wikipe	MAX IV Laboratory
+url	https://www.maxiv.lu.se/
+place	Sweden
+
+.	e:lure
+place	Orsay, France
+
+.	e:slac lcls
+place	CA, USA
+wikipe	SLAC National Accelerator Laboratory
+
+.	e:frm ii
+place	Garching, Germany
+url	http://www.frm2.tum.de/en/home/
+
+.	e:ill
+url	https://www.ill.eu/
+place	Grenoble, France
+wikipe	Institut Laue–Langevin
+
+.	e:nfpss
+place	Shanghai, China
+
+.	petra ii, desy
+wikipe	DESY
+place	Germany
+
+.	e:petra iii, desy
+wikipe	DESY
+place	Germany
+
+.	e:petra iii, embl c/o desy
+wikipe	DESY
+place	Germany
+
+.	e:rrcat indus-2
+url	http://www.rrcat.gov.in/technology/accel/srul/beamlines/
+place	India
+wikipe	Indus 2
+
+.	e:kurchatov snc
+wikipe	Kurchatov Center for Synchrotron Radiation and Nanotechnology
+place	Russia
+
+.	e:mpg/desy, hamburg
+place	Hamburg, Germany
+
+.	e:european xfel
+url	https://www.xfel.eu/
+wikipe	European XFEL
+place	Hamburg, Germany
+
+.	e:jparc mlf
+place	Ibaraki, Japan
+url	https://j-parc.jp/
+
+.	e:jrr-3m
+place	Ibaraki, Japan
+
+.	e:kcsrnt
+place	Russia
+
+.	e:lansce
+place	New Mexico, USA
+url	https://lansce.lanl.gov/
+wikipe	Los Alamos Neutron Science Center
+
+.	e:nsrl
+place	Anhui, China
+url	http://en.nsrl.ustc.edu.cn/
+
+.	e:ornl high flux isotope reactor
+url	https://neutrons.ornl.gov/hfir
+place	USA
+
+.	e:ornl spallation neutron source
+place	USA
+url	https://neutrons.ornl.gov/sns
+
+.	e:slri
+place	Nakhon Ratchasima, Thailand
+url	https://www.slri.or.th/en/
+comment	Synchrotron Light Research Institute
+
+.	e:swissfel aramis
+place	Switzerland
+url	https://www.psi.ch/lap/aramis-swissfel
+
+.	e:saga-ls
+place	Saga, Japan
+url	http://www.saga-ls.jp/main/

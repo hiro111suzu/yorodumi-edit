@@ -1,0 +1,865 @@
+.	chem
+6O7	Plicamycin
+MQ7	Vitamin K2
+MQ9	Vitamin K2
+MQ8	Vitamin K2
+7MQ	Vitamin K2
+NFF	Nafcillin
+CL0	Chlorophyll A
+CL1	Chlorophyll A
+CL2	Chlorophyll A
+FIS	Fidarestat
+FIR	Fidarestat
+45H	Canthaxanthin
+45D	Canthaxanthin
+CEF	Cefotaxime
+FZS	Ceftriaxone
+P4g	Diethylene glycol diethyl ether
+RIP	Ribose
+DTV	Dithiothreitol
+PDO	1,3-Propanediol
+A8S	Abscisic acid
+CP	Carbamoyl phosphate
+O4B	18-Crown-6
+HCS	Homocysteine
+OCA	Caprylic acid
+BCB	Bacteriochlorophyll
+IPT	Isopropyl β-D-1-thiogalactopyranoside
+ZMA	ZM-241,385
+MRY	Erythritol
+TCE	TCEP
+PNM	Benzylpenicillin
+F6R	Fructose 6-phosphate
+EF2	Thalidomide
+B4P	Ap4A
+GDD	Guanosine diphosphate mannose
+AMU	N-Acetylmuramic acid
+2AN	8-Anilinonaphthalene-1-sulfonic acid
+
+MTA	Adenylthiomethylpentose
+PRP	Phosphoribosyl pyrophosphate
+MPO	MOPS
+CXS	CAPS (buffer)
+UPG	Uridine diphosphate glucose
+A2G	N-Acetylgalactosamine
+NS2	Daridorexant
+NT5	Filorexant
+NRK	Lemborexant
+PGO	Propanediol
+BTB	Bis-tris methane
+B3P	Bis-tris propane
+NVN	SB-408124
+NVK	SB-334867
+SI2	Sialic acid
+SIA	Sialic acid
+FLC	Citric acid
+AFL	Fucose
+FUC	Fucose
+FUL	Fucose
+FCB	Fucose
+FCA	Fucose
+GLA	Galactose
+GLB	Galactose
+LAT	Lactose
+LBT	Lactose
+LDA	Lauryldimethylamine oxide
+R2R	Ruthenium red
+BET	Trimethylglycine
+DTT	Dithiothreitol
+TRS	Tris
+TAM	Tris
+NAG	N-Acetylglucosamine
+NDG	N-Acetylglucosamine
+A2D	N-Acetylgalactosamine
+DIO	1,4-Dioxane
+FE	Iron
+FE2	Iron
+MPD	2-Methyl-2,4-pentanediol
+FS1	Iron–sulfur cluster
+FS4	Iron–sulfur cluster
+FES	Iron–sulfur cluster
+F3S	Iron–sulfur cluster
+BME	2-Mercaptoethanol
+MRD	2-Methyl-2,4-pentanediol
+BOG	Octyl glucoside
+ASC	Vitamin C
+15O	1-Chloronaphthalene
+1NP	1-Naphthol
+2PG	2-Phosphoglyceric acid
+NAP	Nicotinamide adenine dinucleotide phosphate
+NDP	Nicotinamide adenine dinucleotide phosphate
+MBR	Bromoform
+LBF	Leptomycin
+LMB	Leptomycin
+NHE	CHES (buffer)
+MES	MES (buffer)
+PIN	PIPES
+EPE	HEPES
+MBD	3-Methylcatechol
+MCT	4-Methylcatechol
+DBY	Dibromotyrosine
+LI	Lithium
+CPS	CHAPS detergent
+AMZ	AICA ribonucleotide
+LU	Lutetium
+ENO	4-Hydroxyphenylpyruvic acid
+XE	Xenon
+CMP	Cyclic adenosine monophosphate
+NRG	x
+0DB	x
+SHH	x
+BOU	x
+PTQ	x
+F43	Cofactor F430
+A3P	Adenosine 3',5'-bisphosphate
+KR	Krypton
+BMA	Mannose
+MAN	Mannose
+G39	Oseltamivir
+BJ5	Deferoxamine
+BH1	Pheophytin
+BPB	Pheophytin
+BPH	Pheophytin
+PHO	Pheophytin
+PL9	Plastoquinone
+PEG	Diethylene glycol
+
+PGE	Polyethylene glycol
+15P	Polyethylene glycol
+PE4	Polyethylene glycol
+P6G	Polyethylene glycol
+2PE	Polyethylene glycol
+P33	Polyethylene glycol
+1PG	Polyethylene glycol
+12P	Polyethylene glycol
+PG6	Polyethylene glycol
+PE5	Polyethylene glycol
+PE8	Polyethylene glycol
+7PE	Polyethylene glycol
+XPE	Polyethylene glycol
+PEU	Polyethylene glycol
+
+ZK1	Fanapanel
+TRT	Triton X-100
+HG	Mercury (element)
+ACO	Acetyl-CoA
+TLA	Tartaric acid
+TAR	Tartaric acid
+OXY	Oxygen
+LHG	Phosphatidylglycerol
+PC1	Phosphatidylcholine
+PSC	Phosphatidylcholine
+OPC	Phosphatidylcholine
+CPL	Phosphatidylcholine
+DLP	Phosphatidylcholine
+3PE	Phosphatidylethanolamine
+EPH	Phosphatidylethanolamine
+PEF	Phosphatidylethanolamine
+M0E	Moenomycin family antibiotics
+3CN	Propylamine
+
+.	taxo
+
+gallus gallus	Chicken
+sus	Sus (genus)
+mus	Mus (Mus)
+
+cryphonectria parasitica	Chestnut blight
+
+salmonella typhimurium	Salmonella enterica subsp. enterica
+hizikia fusiformis	Hijiki
+lotus	Lotus (genus)
+cocos	Cocos (plant)
+cygnus	Cygnus (genus)
+columba	Columba (genus)
+rana	Rana (genus)
+clytia	x
+moorea	x
+
+fragaria vesca	Fragaria vesca
+iris	Iris (plant)
+lens	Lens (plant)
+piper	Piper (plant)
+lama	Lama (genus)
+gallus	Gallus (genus)
+
+hybrid	x
+unclassified 	x
+unclassified sequences	x
+soja	x
+
+..	phage
+enterobacteria phage t4	Enterobacteria phage T4
+enterobacteria phage t7	T7 phage
+enterobacteria phage p22	Enterobacteria phage P22
+
+..	virus
+human poliovirus 1	Poliovirus
+human poliovirus 2	Poliovirus
+human poliovirus 3	Poliovirus
+human poliovirus 1 mahoney	Poliovirus
+
+hepatovirus	x
+hepatovirus a	Hepacivirus A
+human hepatitis a	Hepacivirus A
+human hepatitis a virus	Hepacivirus A
+human hepatitis a virus hu/australia/hm175/1976	Hepacivirus A
+human hepatitis a virus hu/los angelos/la/1975	Hepacivirus A
+human hepatitis a virus hu/northern africa/mbb/1978	Hepacivirus A
+human parechovirus 3	Parechovirus
+human parechovirus 1	Parechovirus
+
+human immunodeficiency virus 1	HIV
+human immunodeficiency virus type 1	HIV
+human adenovirus	Adenoviridae
+human herpesvirus	Herpesviridae
+
+severe acute respiratory syndrome-related coronavirus	Severe acute respiratory syndrome coronavirus
+middle east respiratory syndrome-related coronavirus	Middle East respiratory syndrome-related coronavirus
+
+
+.	misc
+..	method
+em	Transmission electron microscopy
+cryo em	Transmission electron cryomicroscopy
+cryo-em	Transmission electron cryomicroscopy
+single particle analysis	Single particle analysis
+single particle	Single particle analysis
+electron crystallography	Electron crystallography
+electron tomography	Electron tomography
+field emission gun	Field emission gun
+bright field	Bright-field microscopy
+diffraction	Diffraction
+crystallography	Crystallography
+energy filter	Energy filtered transmission electron microscopy
+
+xray crystallography	X-ray crystallography
+x-ray diffraction	X-ray crystallography
+multiple isomorphous replacement	Multiple isomorphous replacement
+multi wavelength anomalous diffraction	Multi-wavelength anomalous dispersion
+multiple isomorphous replacement	Multiple isomorphous replacement
+anomalous scattering	Anomalous scattering
+isomorphous replacement	Isomorphous replacement
+
+free electron laser	Free-electron laser
+
+neutron diffraction	Neutron diffraction
+fiber diffraction	Fiber diffraction
+small angle scattering	Small-angle scattering
+x-ray synchrotron	Synchrotron
+
+nmr	Nuclear magnetic resonance
+solution nmr	Nuclear magnetic resonance
+solid state nmr	Solid-state nuclear magnetic resonance
+simulated annealing	Simulated annealing
+fourier shell correlation	Fourier shell correlation
+neutron diffraction	Neutron diffraction
+nuclear reactor	Nuclear reactor
+
+..	cif
+ls_r_factor_r_free	R-factor (crystallography)
+ls_r_factor_all	R-factor (crystallography)
+ls_r_factor_r_work	R-factor (crystallography)
+
+em_ctf_correction	Contrast transfer function
+em_vitrification	Transmission electron cryomicroscopy
+vitrification_applied	Transmission electron cryomicroscopy
+staining_applied	Negative stain
+exptl_crystal_grow	Protein crystallization
+pdbx_method_to_determine_struct	Phase problem
+pdbx_nmr_exptl.type	Two-dimensional nuclear magnetic resonance spectroscopy
+energyfilter_name	Energy filtered transmission electron microscopy
+nominal_cs	Spherical aberration
+astigmatism	Astigmatism
+
+em_3d_reconstruction	3D reconstruction
+electron_source	Electron gun
+chr_aberration_corrector	Chromatic aberration
+sph_aberration_corrector	Spherical aberration
+
+Cyclic symmetry in three dimensions	Cyclic symmetry in three dimensions
+Dihedral symmetry in three dimensions	Dihedral symmetry in three dimensions
+Tetrahedral symmetry	Tetrahedral symmetry
+Octahedral symmetry	Octahedral symmetry
+Icosahedral symmetry	Icosahedral symmetry
+point_symmetry	Point groups in three dimensions
+pdbx_point_symmetry	Point groups in three dimensions
+Schoenflies_symbol	Schoenflies notation
+H-M_notation	Hermann–Mauguin notation
+Abciximab	Abciximab
+
+..	biomolecule etc
+env polyprotein	Env (gene)
+pvc2	x
+dash	x
+sumo	SUMO protein
+kaic	KaiC
+16s	16S ribosomal RNA
+adp	Adenosine diphosphate
+atp	Adenosine triphosphate
+adp-ribosyltransferase	Poly (ADP-ribose) polymerase
+water channel	Aquaporin
+kcsa	KcsA potassium channel
+trpm4	TRPM4
+trpm2	TRPM2
+trpc3 channel	TRPC3
+trpm channel	TRPM
+pathogens	Pathogen
+recombination	Genetic recombination
+ribosome	Ribosome
+rna polymerase	RNA polymerase
+dna polymerase	DNA polymerase
+flagellar motor	Flagellum
+type iii secretion	Type three secretion system
+type ii secretion	Type II secretion system
+type vi secretion	Type VI secretion system
+fab	Fragment antigen-binding
+antenna complex	Light-harvesting complexes of green plants
+in vitro	In vitro
+riboswitch	Riboswitch
+replication	DNA replication
+sliding clamp	DNA clamp
+proliferating cell nuclear antigen	Proliferating cell nuclear antigen
+pcna	Proliferating cell nuclear antigen
+photoreceptor	Photoreceptor protein
+tumor suppressor	Tumor suppressor gene
+glutamine synthetase	Glutamine synthetase
+viral protein	Viral protein
+topoisomerase	Topoisomerase
+aaa family	AAA proteins
+aaa atpase	AAA proteins
+voltage-gated calcium channels	Voltage-gated calcium channel
+voltage-dependent calcium channe	Voltage-gated calcium channel
+voltage-gated ion channel	Voltage-gated ion channel
+voltage-dependent ion channel	Voltage-gated ion channel
+voltage-gated potassium channel	Voltage-gated potassium channel
+voltage-dependent potassium channel	Voltage-gated potassium channel
+receptor	Receptor (biochemistry)
+transcriptional factor	Transcription factor
+glycan	Glycan
+glycosyltransferase	Glycosyltransferase
+katp	ATP-sensitive potassium channel
+atp sensitive potassium channels	ATP-sensitive potassium channel
+transporter	Transport protein
+apoprotein	Apoenzyme
+integral component of membrane	Integral membrane protein
+integral	x
+beta-propella	Beta-propeller
+nacl	Sodium chloride
+tris-hcl	Tris
+Periplasmic	Periplasm
+Exoplasmic loop	Ectoplasm (cell biology)
+Neurotensin peptide	Neurotensin
+Beta-arrestin-1	Arrestin
+Histone H3.1	Histone H3
+inositol 1,4,5-triphosphate receptor	Inositol trisphosphate receptor
+Lifeact	LifeAct Dye
+Spike glycoprotein	Peplomer
+Peplomer protein	Peplomer
+
+..	remove
+entity	x
+ipet	x
+alpha beta	x
+alpha	x
+beta	x
+cell	x
+humidity	x
+temperature	x
+pressure	x
+gins	x
+mate	x
+ruffle	x
+other	x
+regulatory	x
+hand	x
+psaa	x
+selb	x
+rgia	x
+data domain	x
+arno	x
+arod	x
+aroe	x
+arsa	x
+arrest	x
+ligand-binding domain	x
+ligand binding domain	x
+export	x
+exporter	x
+exported	x
+import	x
+importer	x
+protein binding	x
+httm	x
+imagic	x
+Ince	x
+masc	x
+dtw	x
+invasion	x
+smap	x
+wd-40	x
+wd40	x
+b-box	x
+mobb	x
+orff	x
+c3po	x
+smurf	x
+toub	x
+jiraiya	x
+risc	x
+roco	x
+rosetta	x
+unknown	x
+saga	x
+suppressed	x
+pure	x
+eman	x
+tmr	x
+yoda	x
+xena	x
+tweety	x
+novel	x
+disaggregation	x
+leud	x
+step	x
+classification	x
+cro	x
+portal	x
+fit	x
+apra	x
+locomotion	x
+ocsp	x
+psaa	x
+psab	x
+psac	x
+psad	x
+psae	x
+psaf	x
+psag	x
+psah	x
+psal	x
+trap	x
+arna	x
+
+..	replace
+membrane	Biological membrane
+electric organ	Electric organ (biology)
+heavy meta	Heavy metals
+antagonist	Receptor antagonist
+snare	SNARE (protein)
+ion pump	Ion transporter
+kringle	Kringle domain
+nadp	Nicotinamide adenine dinucleotide phosphate
+arylsulfotransferase	Aryl sulfotransferase
+
+sumo	SUMO protein
+promiscuity	Enzyme promiscuity
+promiscuous	Enzyme promiscuity
+nadh dehydrogenase	NADH dehydrogenase
+nadh-dehydrogenase	NADH dehydrogenase
+inhibitor	Enzyme inhibitor
+inhibition	Enzyme inhibitor
+transcription	Transcription (biology)
+nucleus	Cell nucleus
+gtpase	GTPase
+recombination	Genetic recombination
+immunity	Immunity (medical)
+initiation	x
+Initiator	x
+competitive	Competition (biology)
+dehydration	Dehydration reaction
+dehydrated	Dehydration reaction
+signaling	Cell signaling
+signalling	Cell signaling
+heavy metal	Heavy metals
+metal resistance	x
+porin	Porin (protein)
+cell-wall	Cell wall
+analog	Functional analog (chemistry)
+splicing	RNA splicing
+ligand	Ligand (biochemistry)
+ligands	Ligand (biochemistry)
+nucleic-acid	Nucleic acid
+translation	Translation (biology)
+periplasm	Periplasm
+tim-barrel	TIM barrel
+chaperone	Chaperone (protein)
+beta-barrel	Beta barrel
+spider	Spider
+myoe	MYO1E
+mercury	Mercury (element)
+parkinson	Parkinson's disease
+FRET	Fluorescence resonance energy transfer
+
+..	database
+
+db_go	Gene ontology
+db_un	UniProt
+db_in	InterPro
+db_rt	Reactome
+db_pf	Pfam
+db_pr	PROSITE
+db_gb	GenBank
+db_ct	CATH database
+db_ec	Enzyme Commission number
+
+.	all
+wild strawberries	Fragaria	
+core protein	x
+arstotzka protein	x
+
+.	ng_title
+//	変換後のエントリ
+Coat	x
+AMX-30 AuF1	x
+Communications Zone	x
+Royal Artillery Mounted Rifles	x
+William Tecumseh Sherman	x
+Royal Canadian Air Force	x
+Mary River Aerodrome	x
+Audio induction loop	x
+Capitol Christian Music Group	x
+Dodie Clark discography	x
+Johann Sebastian Bach	x
+Mama	x
+Shin Megami Tensei III: Nocturne	x
+Malankara Orthodox Syrian Church	x
+Creation Seventh Day Adventist Church	x
+Malankara Orthodox Syrian Church	x
+New Testament apocrypha	x
+Transvision Vamp	x
+Winston Churchill	x
+Silencer (firearms)	x
+Novichok agent	x
+MD1 (military R&D organisation)	x
+Icar	x
+Grenade	x
+Self-propelled anti-aircraft weapon	x
+Degtyaryov machine gun	x
+Insecticidal	x
+Empty	x
+Foreign Policy Research Institute	x
+H.261	x
+Society for Promoting Christian Knowledge	x
+PL-2	x
+Autofocus	x
+
+St. Michael Airport	x
+Alstom PL42AC	x
+Compass	x
+Maritime transport	x
+Name	x
+Padehi, Sistan and Baluchestan	x
+Padrón	x
+Péhé	x
+Pula	x
+Ottoman Public Debt Administration	x
+Rada	x
+Beta	x
+Group	x
+Bran Van 3000	x
+Dare to Be Stupid	x
+David Palfreyman	x
+Digital Living Network Alliance	x
+Jagged 	x
+Location	x
+Sainte-Julienne Aerodrome	x
+Shin Megami Tensei: Nocturne	x
+Least I Could Do	x
+The Dark Knight Strikes Again	x
+Fantastic Four	x
+Sly Cooper and the Thievius Raccoonus	x
+WarGames	x
+USS Yorktown (CV-10)	x
+Saved by the Bell	x
+Palm Springs Air Museum	x
+Affirmative action	x
+Centro Brasileiro de Pesquisas Físicas	x
+Alcatel Business Communications	x
+CNBC	x
+Super Smash Bros. Melee	x
+Commodore 64	x
+Hect	x
+Mature	x
+Mobile phone	x
+Shoot 'em up	x
+KTRA-FM	x
+Myst	x
+Qbeta	x
+Soho	x
+WLAC	x
+Toho	x
+Centre for Cellular and Molecular Biology	x
+International Association of Oil & Gas Producers	x
+Intercity Express Programme	x
+Internet slang	x
+List of software based on Kodi and XBMC	x
+Mid Atlantic Terascale Partnership	x
+National Cancer Intelligence Network	x
+Network address translation	x
+Peer Distributed Transfer Protocol	x
+Policy and charging rules function	x
+PuTTY	x
+Routing Information Protocol	x
+Subic–Tipo Expressway	x
+Fast and Secure Protocol	x
+Dimmer	x
+LAPB	x
+The Art of the Metaobject Protocol	x
+ISDB	x
+Gabr	x
+Chad	x
+Arcadia	x
+Nice	x
+North American Numbering Plan	x
+Saba	x
+
+ABBA	x
+AbrB	x
+Tha Dogg Pound	x
+Transportin'	x
+187 Lockdown	x
+Songkok	x
+SHARP	x
+Fancy Bear	x
+Yoda	x
+Group	x
+Lady Pank	x
+10cc	x
+A Band	x
+C-clamp	x
+OCSP	x
+Light switch	x
+Group	x
+Laci	x
+Copi	x
+Jewish holidays	x
+Sharp	x
+SHARP	x
+Kirt	x
+Vast	x
+Bart	x
+Piga	x
+IMPA	x
+Neat	x
+Hint	x
+PSIA	x
+Utra	x
+Christchurch	x
+Nursu	x
+Argos	x
+Family	x
+Fast	x
+Astra	x
+A band	x
+Camp	x
+Transport	x
+Meco	x
+-wich town	x
+A156 road	x
+Alad	x
+Toplessness	x
+Topless	x
+Subb	x
+Rhim	x
+Kaub	x
+Dna2	x
+Thetford Mines Airport	x
+Posek	x
+Slik	x
+Alog	x
+Bard	x
+Heavy metal music	x
+WHTH	x
+Rave	x
+As Blood Runs Black	x
+Found	x
+Group (mathematics)	x
+People's Revolutionary Party of Benin	x
+Romani people	x
+Socialist Party of National Liberation	x
+Sudan	x
+Venezuela	x
+Vienna	x
+Bipa	x
+Thomas Kukula	x
+Metallo	x
+Main	x
+Putative	x
+SATB	x
+Sirp	x
+Pipa	x
+Phuz	x
+Odin	x
+CIMP	x
+Chab	x
+Fret	x
+Harp	x
+Identical	x
+KDSC	x
+Meds	x
+Methuselah	x
+Multi	x
+Mope	x
+Computer-aided design	x
+Mystery Science Theater 3000	x
+Family Radio	x
+Musical form	x
+VAST	x
+Papers, Please	x
+Dallas Mavericks	x
+Metal Gear Solid Touch	x
+Middle-earth Role Playing	x
+Naïs	x
+PSBL Bandar Lampung	x
+Puyo Puyo	x
+SuzoHapp North America	x
+Artur Pikk	x
+Campeonato Paulista	x
+YSCC Yokohama	x
+Crac	x
+Structure and genome of HIV	x
+Bangladesh Rehabilitation Centre for Trauma Victims	x
+IPad	x
+Nuclear power debate	x
+Echoes, Silence, Patience & Grace	x
+DYRK	x
+KRLB-LD	x
+ABC 23	x
+BBC One	x
+CFEM-DT	x
+CHCH-DT	x
+CITS-DT	x
+KRLB-LD	x
+ABC (Australian TV channel)	x
+Michael McIntyre's Comedy Roadshow	x
+Royal Academy of Dramatic Art	x
+Südwestrundfunk	x
+Pilot report	x
+Christopher C. Kraft Jr. Mission Control Center	x
+KMYX-FM	x
+CIPC-FM	x
+CBBX-FM	x
+CIPC-FM	x
+Universal Mobile Telecommunications System	x
+Capital District Transportation Authority	x
+Close	x
+Port Clarence Coast Guard Station	x
+Universal Mobile Telecommunications System	x
+Yasser Arafat International Airport	x
+Naval Ordnance Station Louisville	x
+Port Clarence Coast Guard Station	x
+Naval Ordnance Station Louisville	x
+Amsterdam Airport Schiphol	x
+Atlin Airport	x
+Baco Airport	x
+Baie-Comeau Water Aerodrome	x
+Barkerville Airport	x
+Barrhead Airport	x
+Bay Area Rapid Transit	x
+Bram Fischer International Airport	x
+Coonabarabran Airport	x
+Gambell Airport	x
+Grantley Adams International Airport	x
+Harrow Airport	x
+Indianapolis Metropolitan Police Department	x
+Lac-à-la-Tortue Airport	x
+Lourdes-de-Joliette Airport	x
+Maningrida Airport	x
+Mont-Laurier Airport	x
+Moose Lake (Lodge) Airport	x
+Movement Coordination Centre Europe	x
+Mumbai–Manmad Pipeline	x
+New Bight Airport	x
+Pickle Lake Airport	x
+Rawalakot Airport	x
+St. Anthony Airport	x
+Stockholm Bromma Airport	x
+Stony Plain (Lichtner Farms) Airport	x
+Stratford Municipal Airport	x
+Sudbury Airport	x
+TW postcode area	x
+Thompson Airport	x
+Timbuktu Airport	x
+Togiak Airport	x
+Tok Airport	x
+Zonguldak Airport	x
+Forever the Sickest Kids	x
+Banja Luka Stock Exchange	x
+Captain Luis F. Gómez Niño Air Base	x
+Duane Arnold Energy Center	x
+Eastern Metropolitan Bus Corporation	x
+Heavy Alloy Penetrator Project	x
+Honda N-Box	x
+International Symposium on Physical Design	x
+Iraq	x
+Jam, Iran	x
+Memphis, Egypt	x
+Ministry of Economy and Finance (South Korea)	x
+Sōja	x
+Salamis Island	x
+Tram	x
+Transports en Commun de l'Agglomération Rouennaise	x
+York City F.C.	x
+South of Scotland Electricity Board	x
+People's Democratic Party of Afghanistan	x
+Pest Management Regulatory Agency	x
+Interstate 5	x
+Human Resources Development Canada	x
+Măcin	x
+Meti (Gambela), Ethiopia	x
+Pittsburgh Association of Petroleum Geologists	x
+Poh Ah Tiam	x
+South of Scotland Electricity Board	x
+Sigmund Freud	x
+Trafalgar School for Girls	x
+Trogir	x
+Yuri Gagarin	x
+BT Ireland	x
+China South Industries Group	x
+D-Box Technologies	x
+Financial Reporting Council	x
+Gezhouba Group	x
+Health Insurance Portability and Accountability Act	x
+IABG	x
+Science, Industry and Business Library	x
+USS Long Island (CVE-1)	x
+Constituent state	x
+Bzip2	x
+University of Maryland Global Campus 	x
+Device file	x
+Thagomizer	x
+Puerto Rico Highway 10	x
+South Luzon Expressway	x
+Oregon Parks and Recreation Department	x
+Public Services and Procurement Canada	x
+South Luzon Expressway	x
+Maine Eastern Railroad	x
+Electronically controlled pneumatic brakes	x
+Aars	x
+Trstenik Airport	x
+Cabo Verde Airlines	x
+Arid	x
+
+.	ng_term
+//	部分一致で弾く、 case sesnsitive
+Executive Office of the
+Painting Artists of the World	x
+Sports & Entertainment	x
+List of state highways	x
+List of highways	x
+Ministry of	x
+Football Association	x
+Stanford Institutes of Medicine	x
+United States Navy	x
+anti-aircraft weapon	x
+American Society of	x
+Department of Transportation	x
+
+.	e2j
+X-ray crystallography	X線回折
+Transmission electron cryomicroscopy	低温電子顕微鏡法
+Ribosome	リボソーム
+Hepatovirus A	A型肝炎ウイルス
+Hepacivirus A	A型肝炎ウイルス
+Human hepatitis A virus	A型肝炎ウイルス

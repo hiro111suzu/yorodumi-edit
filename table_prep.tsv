@@ -1,0 +1,49 @@
+.	英語	日本語	カテゴリ	type	multi	t-page	count
+db_id				UNIQUE		
+database
+id
+sort_sub
+
+title	Title	タイトル	Entry			1
+release	Data Release Date	データ公開日	Entry			1
+udate	Last Update	最終更新日	Entry			1
+submit	Submission Date	登録日	Entry			1
+submit_year	Submission Year	登録年	Entry	INTEGER			1
+authors	Authors	著者・登録者	Entry		1	1	1
+kw	Keywords	キーワード	Entry		1	1	1
+proc_site	Processing Site	処理したサイト	Entry			1	1
+
+journal	Journal Name	ジャーナル名	Article			1	1
+pmid	PubMed ID	PubMed ID	Article			1
+country	Country	国	Article			1	1
+
+compo	Component	構成要素	Sample		1	1	1
+categ	Category	カテゴリ	Sample				
+spec	Species	生物種	Sample		1	1	1
+agg_state	Aggregation State	集合状態	Sample			1	1
+olig_state	Oligomeritc State	オリゴマーの状態	Sample			1	
+molw	Molecular Weight (MDa)	分子量（MDa）	Sample	REAL		1
+molw_seg	Molecular Weight (MDa)	分子量（MDa）	Sample	REAL			1
+
+cryogen_name	Cryogen Name	凍結剤	Experiment			1	1
+inst_vitr	Instrument for Vitrification	凍結装置	Experiment			1	1
+spec_holder	Specimen Holder	試料ホルダ	Experiment			1	1
+spec_temp	Specimen Temperature	試料温度	Experiment	REAL		1	
+temp_seg	Specimen Temperature	試料温度	Experiment	INTEGER			1
+microscope	Microscope	電子顕微鏡	Experiment			1	1
+acc_vol	Accelerating Voltage	加速電圧	Experiment	INTEGER		1	1
+elec_source	Electron Source	電子線源	Experiment			1	1
+detector	Detector	ディテクター	Experiment			1	1
+
+method	Method	手法	Processing			1	1
+resolution	Resolution	解像度	Processing	REAL		1	
+reso_seg	Resolution	解像度	Processing	INTEGER			1
+reso_method	Resolution Method	解像度の算出法	Processing			1	1
+ctf_corr	CTF correction	CTF補正	Processing			1	1
+rec_algo	3D reconstruction Algorithm	3次元再構成 アルゴリズム	Processing			1	1
+rec_soft	Software fo 3D reconstruction	3次元再構成 ソフトウェア	Processing		1	1	1
+fit_pdbid	Model PDB ID	モデルPDB ID	Processing			1
+fit_soft	Software for modeling	モデリング ソフトウェア	Processing		1	1	1
+
+search_words	keyword search
+search_authors	author search
