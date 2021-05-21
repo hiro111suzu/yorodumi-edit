@@ -293,3 +293,16 @@ buf	pH緩衝剤
 ant	抗生剤
 drug	薬剤
 
+.	dbid_ignore
+..	ranking
+SO4
+GOL
+ZN
+MG
+CL
+CA
+EDO
+NA
+NAG
+HOH
+UNX

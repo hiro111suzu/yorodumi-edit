@@ -196,6 +196,10 @@ score	0.1
 //	カプサイシン受容体TRPV1 (Capsaicin Receptor TRPV1)
 add_kw	TRPV1|Capsaicin
 
+.	256
+//	SARSコロナウイルス2型のスパイクと抗体 (SARS-CoV-2 Spike and Antibodies)
+//ng_item	kw:antibodies|kw:antibodie|kw:antibody|kw:antibodi
+
 .	all
 ng_kw	protein|proteins
 ng_item	bd:prd_900003|in:ipr017907|in:ipr003959
