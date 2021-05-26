@@ -153,6 +153,9 @@ add_kw	adenine riboswitch|riboswitch|purine riboswitch
 .	211
 add_kw	Type IV pilus|type ii secretion system|type iv secretion system
 
+.	217
+ng_item	un:p00720|ec:3.2.1.17|in:ipr023346|in:ipr034690
+
 .	221
 //	ヒトパピローマウイルスとワクチン (Human Papillomavirus and Vaccines)
 add_kw	Papillomavirus
