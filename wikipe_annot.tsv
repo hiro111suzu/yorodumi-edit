@@ -157,6 +157,7 @@ EPH	Phosphatidylethanolamine
 PEF	Phosphatidylethanolamine
 M0E	Moenomycin family antibiotics
 3CN	Propylamine
+SDS	Sodium dodecyl sulfate
 
 .	taxo
 
@@ -356,6 +357,8 @@ inositol 1,4,5-triphosphate receptor	Inositol trisphosphate receptor
 Lifeact	LifeAct Dye
 Spike glycoprotein	Peplomer
 Peplomer protein	Peplomer
+arginine-vasopressin	Vasopressin
+Arg-vasopressin	Vasopressin
 
 ..	remove
 entity	x
@@ -510,6 +513,7 @@ arstotzka protein	x
 
 .	ng_title
 //	変換後のエントリ
+Smuggling	x
 Coat	x
 AMX-30 AuF1	x
 Communications Zone	x
