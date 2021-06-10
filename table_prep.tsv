@@ -10,8 +10,8 @@ udate	Last Update	最終更新日	Entry			1
 submit	Submission Date	登録日	Entry			1
 submit_year	Submission Year	登録年	Entry	INTEGER			1
 authors	Authors	著者・登録者	Entry		1	1	1
-kw	Keywords	キーワード	Entry		1	1	1
 proc_site	Processing Site	処理したサイト	Entry			1	1
+empiar	EMPIAR-ID	EMPIAR-ID	Entry	INTEGER		1	
 
 journal	Journal Name	ジャーナル名	Article			1	1
 pmid	PubMed ID	PubMed ID	Article			1

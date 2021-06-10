@@ -1,6 +1,7 @@
 .	img_angle
 //ムービーのスナップショットの方向
 ..	EMDB
+11071	top2
 11827	top2
 11820	top2
 23173	top2
@@ -1527,3 +1528,7 @@
 9711	no
 9712	no
 
+.	pubmed_id_tsv_white_list
+// tsvデータのほうが正しいID、スペース区切り
+emdb	1920 1921 20618
+pdb	
