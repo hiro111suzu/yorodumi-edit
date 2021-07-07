@@ -203,6 +203,10 @@ add_kw	TRPV1|Capsaicin
 //	SARSコロナウイルス2型のスパイクと抗体 (SARS-CoV-2 Spike and Antibodies)
 //ng_item	kw:antibodies|kw:antibodie|kw:antibody|kw:antibodi
 
+.	259
+//	人工設計タンパク質と市民科学 (Designed Proteins and Citizen Science)
+add_kw	designed
+
 .	all
 ng_kw	protein|proteins
 ng_item	bd:prd_900003|in:ipr017907|in:ipr003959
