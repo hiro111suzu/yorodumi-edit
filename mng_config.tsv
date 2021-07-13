@@ -1,6 +1,7 @@
 .	img_angle
 //ムービーのスナップショットの方向
 ..	EMDB
+
 12105	top
 12007	top
 12008	top
@@ -15,6 +16,13 @@
 
 11234	top
 
+31290	bottom2
+31291	bottom2
+31297	bottom2
+31298	bottom2
+31299	bottom2
+31300	bottom2
+31301	bottom2
 
 30925	bottom2
 30926	bottom2
@@ -652,6 +660,10 @@
 ..	PDB
 7b9s	top
 
+7etm	bottom
+7et3	bottom
+7etj	bottom
+	
 7dz7	bottom
 7dz8	bottom
 7e0h	bottom
