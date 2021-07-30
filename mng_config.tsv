@@ -1,17 +1,37 @@
 .	img_angle
 //ムービーのスナップショットの方向
 ..	EMDB
+23620	top2
+30583	top2
+22427	top2
+22428	top2
+22429	top2
+22430	top2
+22431	top2
+23925	top2
+23931	top2
 
-12105	top
-12007	top
-12008	top
-12009	top
-12010	top
-12011	top
-12012	top
-12013	top
-12014	top
-12015	top
+23563	bottom2
+11588	bottom2
+11589	bottom2
+11640	bottom2
+
+23724	top2
+13081	top2
+11373	top2
+11374	top2
+11375	top2
+
+12105	top2
+12007	top2
+12008	top2
+12009	top2
+12010	top2
+12011	top2
+12012	top2
+12013	top2
+12014	top2
+12015	top2
 
 
 11234	top
@@ -658,6 +678,19 @@
 6477	bottom2
 
 ..	PDB
+7d5k	top
+7jq9	top
+7jq9	top
+7jq9	top
+7mop	top
+7mwd	top
+7mwe	top
+7mwf	top
+
+7lx0	bottom
+6zzx	bottom
+6zzy	bottom
+7a4p	bottom
 7b9s	top
 
 7etm	bottom
