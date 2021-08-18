@@ -5,17 +5,6 @@
 7lyb	Cryo-EM structure of the human nucleosome core particle
 7lyc	Cryo-EM structure of the human nucleosome core particle
 
-
-23115	Bacillus PS3 F1-ATPase
-23116	Bacillus PS3 F1-ATPase
-23117	Bacillus PS3 F1-ATPase
-24138	Bacillus PS3 F1-ATPase
-24139	Bacillus PS3 F1-ATPase
-24140	Bacillus PS3 F1-ATPase
-7l1q	Bacillus PS3 F1-ATPase
-7l1r	Bacillus PS3 F1-ATPase
-7l1s	Bacillus PS3 F1-ATPase
-
 30264	Structure of Mumps virus nucleocapsid
 30265	Structure of Mumps virus nucleocapsid
 30266	Structure of Mumps virus nucleocapsid
@@ -71,12 +60,12 @@
 
 30669	Cryo-EM structure of SARS-CoV-2 spike in complex with a neutralizing antibody
 30670	Cryo-EM structure of SARS-CoV-2 spike in complex with a neutralizing antibody
+31470	Cryo-EM structure of SARS-CoV-2 spike in complex with a neutralizing antibody
+31471	Cryo-EM structure of SARS-CoV-2 spike in complex with a neutralizing antibody
 7ej4	Cryo-EM structure of SARS-CoV-2 spike in complex with a neutralizing antibody
 7ej5	Cryo-EM structure of SARS-CoV-2 spike in complex with a neutralizing antibody
-
-30398	CryoEM structure of S.typhimurium flagellar LP ring
-30409	CryoEM structure of S.typhimurium flagellar LP ring
-7clr	CryoEM structure of S.typhimurium flagellar LP ring
+7f62	Cryo-EM structure of SARS-CoV-2 spike in complex with a neutralizing antibody
+7f63	Cryo-EM structure of SARS-CoV-2 spike in complex with a neutralizing antibody
 
 30147	Cryo-EM structure of human VCP mutant
 30148	Cryo-EM structure of human VCP mutant
@@ -119,4 +108,46 @@
 7ngl	human mitochondrial LONP1
 7ngp	human mitochondrial LONP1
 7ngq	human mitochondrial LONP1
+
+21577	Structure of endosomal/lysosomal potassium channel TMEM175
+6w8p	Structure of endosomal/lysosomal potassium channel TMEM175
+21575	Structure of endosomal/lysosomal potassium channel TMEM175
+6w8n	Structure of endosomal/lysosomal potassium channel TMEM175
+21576	Structure of endosomal/lysosomal potassium channel TMEM175
+6w8o	Structure of endosomal/lysosomal potassium channel TMEM175
+
+6k3o	Cryo-EM structure of bacterioferritin from Streptomyces coelicolor
+6k43	Cryo-EM structure of bacterioferritin from Streptomyces coelicolor
+6k4m	Cryo-EM structure of bacterioferritin from Streptomyces coelicolor
+9910	Cryo-EM structure of bacterioferritin from Streptomyces coelicolor
+9913	Cryo-EM structure of bacterioferritin from Streptomyces coelicolor
+9915	Cryo-EM structure of bacterioferritin from Streptomyces coelicolor
+
+12082	Highly potent bispecific sybodies neutralize SARS-CoV-2
+12083	Highly potent bispecific sybodies neutralize SARS-CoV-2
+12084	Highly potent bispecific sybodies neutralize SARS-CoV-2
+12085	Highly potent bispecific sybodies neutralize SARS-CoV-2
+12086	Highly potent bispecific sybodies neutralize SARS-CoV-2
+7p77	Highly potent bispecific sybodies neutralize SARS-CoV-2
+7p78	Highly potent bispecific sybodies neutralize SARS-CoV-2
+7p79	Highly potent bispecific sybodies neutralize SARS-CoV-2
+7p7a	Highly potent bispecific sybodies neutralize SARS-CoV-2
+7p7b	Highly potent bispecific sybodies neutralize SARS-CoV-2
+
+30618	Structure of human soluble guanylate cyclase
+30619	Structure of human soluble guanylate cyclase
+30620	Structure of human soluble guanylate cyclase
+30621	Structure of human soluble guanylate cyclase
+7d9r	Structure of human soluble guanylate cyclase
+7d9s	Structure of human soluble guanylate cyclase
+7d9t	Structure of human soluble guanylate cyclase
+7d9u	Structure of human soluble guanylate cyclase
+
+23629	Cryo-EM structures of the HCMV pentamer bound to host receptor NRP2 and mAbs
+7m22	Cryo-EM structures of the HCMV pentamer bound to host receptor NRP2 and mAbs
+
+30952	Structure of formate-nitrite transporter from Plasmodium falciparum
+30953	Structure of formate-nitrite transporter from Plasmodium falciparum
+7e26	Structure of formate-nitrite transporter from Plasmodium falciparum
+7e27	Structure of formate-nitrite transporter from Plasmodium falciparum
 

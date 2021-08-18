@@ -359,6 +359,7 @@ Spike glycoprotein	Peplomer
 Peplomer protein	Peplomer
 arginine-vasopressin	Vasopressin
 Arg-vasopressin	Vasopressin
+ELMO	ELMO (protein)
 
 ..	remove
 entity	x
@@ -844,6 +845,17 @@ Aars	x
 Trstenik Airport	x
 Cabo Verde Airlines	x
 Arid	x
+Tanegashima Space Center	x
+Bisei Spaceguard Center	x
+Air Route Surveillance Radar	x
+Space Innovation and Development Center	x
+User interface design	x
+BISEI SPACEGUARD CENTER	x
+SPACE INNOVATION AND DEVELOPMENT CENTER	x
+TFOX	x
+The Best Damn Thing	x
+The Sequence	x
+Red Bull Music Academy	x
 
 .	ng_term
 //	部分一致で弾く、 case sesnsitive
