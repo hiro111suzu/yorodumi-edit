@@ -1,6 +1,13 @@
 .	img_angle
 //ムービーのスナップショットの方向
 ..	EMDB
+11899	top2
+23692	top2
+24425	top2
+30923	top2
+22705	top2
+22706	top2
+23459	top2
 13422	top2
 13423	top2
 13116	top2
@@ -696,6 +703,10 @@
 6477	bottom2
 
 ..	PDB
+7m6a	top
+7rdr	top
+7dyr	top
+7lna	top
 7oyg	top
 7l7s	top
 7mdo	top
@@ -1397,6 +1408,7 @@
 11216-3	6zh8
 11217-3	6zha
 11219-3	6zhe
+23785-3	7mdz
 
 .	situsmap
 // invert 密度レベルが逆に（thrは自動でマイナスになるので指定しなくていい）
