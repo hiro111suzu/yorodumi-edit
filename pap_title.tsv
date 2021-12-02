@@ -36,11 +36,6 @@
 6xlg	Cryo-EM structures reveal a multistep mechanism of Hsp90 activation by co-chaperone Aha1
 6xlh	Cryo-EM structures reveal a multistep mechanism of Hsp90 activation by co-chaperone Aha1
 
-31047	Cryo-EM structure of SARS-CoV-2 Spike variant
-31048	Cryo-EM structure of SARS-CoV-2 Spike variant
-31050	Cryo-EM structure of SARS-CoV-2 Spike variant
-31051	Cryo-EM structure of SARS-CoV-2 Spike variant
-31052	Cryo-EM structure of SARS-CoV-2 Spike variant
 31760	Cryo-EM structure of SARS-CoV-2 Spike variant
 31761	Cryo-EM structure of SARS-CoV-2 Spike variant
 31762	Cryo-EM structure of SARS-CoV-2 Spike variant
@@ -79,11 +74,6 @@
 31798	Cryo-EM structure of SARS-CoV-2 Spike variant
 31799	Cryo-EM structure of SARS-CoV-2 Spike variant
 31800	Cryo-EM structure of SARS-CoV-2 Spike variant
-7eaz	Cryo-EM structure of SARS-CoV-2 Spike variant
-7eb0	Cryo-EM structure of SARS-CoV-2 Spike variant
-7eb3	Cryo-EM structure of SARS-CoV-2 Spike variant
-7eb4	Cryo-EM structure of SARS-CoV-2 Spike variant
-7eb5	Cryo-EM structure of SARS-CoV-2 Spike variant
 7v76	Cryo-EM structure of SARS-CoV-2 Spike variant
 7v77	Cryo-EM structure of SARS-CoV-2 Spike variant
 7v78	Cryo-EM structure of SARS-CoV-2 Spike variant
@@ -140,15 +130,6 @@
 7bpa	Cryo-EM structure of human VCP mutant
 7bpb	Cryo-EM structure of human VCP mutant
 
-23900	Escherichia coli RNA polymerase elongation complex
-23901	Escherichia coli RNA polymerase elongation complex
-23902	Escherichia coli RNA polymerase elongation complex
-23903	Escherichia coli RNA polymerase elongation complex
-7mkn	Escherichia coli RNA polymerase elongation complex
-7mko	Escherichia coli RNA polymerase elongation complex
-7mkp	Escherichia coli RNA polymerase elongation complex
-7mkq	Escherichia coli RNA polymerase elongation complex
-
 31083	cryo-EM structure of Streptavidin
 31084	cryo-EM structure of Streptavidin
 7efd	cryo-EM structure of Streptavidin
@@ -199,11 +180,6 @@
 23629	Cryo-EM structures of the HCMV pentamer bound to host receptor NRP2 and mAbs
 7m22	Cryo-EM structures of the HCMV pentamer bound to host receptor NRP2 and mAbs
 
-30952	Structure of formate-nitrite transporter from Plasmodium falciparum
-30953	Structure of formate-nitrite transporter from Plasmodium falciparum
-7e26	Structure of formate-nitrite transporter from Plasmodium falciparum
-7e27	Structure of formate-nitrite transporter from Plasmodium falciparum
-
 30471	Cryo-EM structure of Cytochrome bo3 from Escherichia coli
 30474	Cryo-EM structure of Cytochrome bo3 from Escherichia coli
 30475	Cryo-EM structure of Cytochrome bo3 from Escherichia coli
@@ -235,12 +211,87 @@
 11708	Cryo-EM structure of B. subtilis ClpC
 7abr	Cryo-EM structure of B. subtilis ClpC
 
-23880	Cryo-EM structure of vascular KATP channel Kir6.1 SUR2B
-23881	Cryo-EM structure of vascular KATP channel Kir6.1 SUR2B
-23882	Cryo-EM structure of vascular KATP channel Kir6.1 SUR2B
-23864	Cryo-EM structure of vascular KATP channel Kir6.1 SUR2B
-7mjp	Cryo-EM structure of vascular KATP channel Kir6.1 SUR2B
-7mjq	Cryo-EM structure of vascular KATP channel Kir6.1 SUR2B
-7mjo	Cryo-EM structure of vascular KATP channel Kir6.1 SUR2B
-7mit	Cryo-EM structure of vascular KATP channel Kir6.1 SUR2B
+11900	Staphylococcus aureus ribosome after 30 minutes incubation at 37C
+11901	Staphylococcus aureus ribosome after 30 minutes incubation at 37C
+11902	Staphylococcus aureus ribosome after 30 minutes incubation at 37C
+11903	Staphylococcus aureus ribosome after 30 minutes incubation at 37C
+7asm	Staphylococcus aureus ribosome after 30 minutes incubation at 37C
+7asn	Staphylococcus aureus ribosome after 30 minutes incubation at 37C
+7aso	Staphylococcus aureus ribosome after 30 minutes incubation at 37C
+7asp	Staphylococcus aureus ribosome after 30 minutes incubation at 37C
+
+13800	Cryo-EM Structures of Amyloid-beta 42 Filaments from Human Brain
+13809	Cryo-EM Structures of Amyloid-beta 42 Filaments from Human Brain
+7q4b	Cryo-EM Structures of Amyloid-beta 42 Filaments from Human Brain
+7q4m	Cryo-EM Structures of Amyloid-beta 42 Filaments from Human Brain
+
+31918	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+31922	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+31923	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+32131	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+32132	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+32133	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+32136	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+32137	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+32138	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+32139	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vdh	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vdl	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vdm	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vuy	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vuz	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vv0	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vv3	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vv4	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vv5	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+7vv6	Cryo-EM structure of pseudoallergen receptor MRGPRX2
+
+12322	1918 H1N1 Viral influenza polymerase heterotrimer
+12323	1918 H1N1 Viral influenza polymerase heterotrimer
+12342	1918 H1N1 Viral influenza polymerase heterotrimer
+12348	1918 H1N1 Viral influenza polymerase heterotrimer
+12361	1918 H1N1 Viral influenza polymerase heterotrimer
+12362	1918 H1N1 Viral influenza polymerase heterotrimer
+12363	1918 H1N1 Viral influenza polymerase heterotrimer
+12364	1918 H1N1 Viral influenza polymerase heterotrimer
+12371	1918 H1N1 Viral influenza polymerase heterotrimer
+12372	1918 H1N1 Viral influenza polymerase heterotrimer
+12373	1918 H1N1 Viral influenza polymerase heterotrimer
+12375	1918 H1N1 Viral influenza polymerase heterotrimer
+12428	1918 H1N1 Viral influenza polymerase heterotrimer
+12429	1918 H1N1 Viral influenza polymerase heterotrimer
+12430	1918 H1N1 Viral influenza polymerase heterotrimer
+12431	1918 H1N1 Viral influenza polymerase heterotrimer
+12433	1918 H1N1 Viral influenza polymerase heterotrimer
+12435	1918 H1N1 Viral influenza polymerase heterotrimer
+12437	1918 H1N1 Viral influenza polymerase heterotrimer
+12440	1918 H1N1 Viral influenza polymerase heterotrimer
+12447	1918 H1N1 Viral influenza polymerase heterotrimer
+7nha	1918 H1N1 Viral influenza polymerase heterotrimer
+7nhc	1918 H1N1 Viral influenza polymerase heterotrimer
+7nhx	1918 H1N1 Viral influenza polymerase heterotrimer
+7ni0	1918 H1N1 Viral influenza polymerase heterotrimer
+7nik	1918 H1N1 Viral influenza polymerase heterotrimer
+7nil	1918 H1N1 Viral influenza polymerase heterotrimer
+7nir	1918 H1N1 Viral influenza polymerase heterotrimer
+7nis	1918 H1N1 Viral influenza polymerase heterotrimer
+7nj3	1918 H1N1 Viral influenza polymerase heterotrimer
+7nj4	1918 H1N1 Viral influenza polymerase heterotrimer
+7nj5	1918 H1N1 Viral influenza polymerase heterotrimer
+7nj7	1918 H1N1 Viral influenza polymerase heterotrimer
+7nk1	1918 H1N1 Viral influenza polymerase heterotrimer
+7nk2	1918 H1N1 Viral influenza polymerase heterotrimer
+7nk4	1918 H1N1 Viral influenza polymerase heterotrimer
+7nk6	1918 H1N1 Viral influenza polymerase heterotrimer
+7nk8	1918 H1N1 Viral influenza polymerase heterotrimer
+7nka	1918 H1N1 Viral influenza polymerase heterotrimer
+7nkc	1918 H1N1 Viral influenza polymerase heterotrimer
+7nki	1918 H1N1 Viral influenza polymerase heterotrimer
+7nkr	1918 H1N1 Viral influenza polymerase heterotrimer
+
+
+12740	Structure of the borneol dehydrogenase of Salvia
+12739	Structure of the borneol dehydrogenase of Salvia
+7o6q	Structure of the borneol dehydrogenase of Salvia
+7o6p	Structure of the borneol dehydrogenase of Salvia
 
