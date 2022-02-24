@@ -18,6 +18,10 @@
 /UNITY-/	UNITY 
 /UNITY ([0-9])/	UNITY $1
 
+..	
+/FEI TITAN KRIOS/i	TFS KRIOS	
+
+
 .	s
 /^MD$/	molecular dynamics
 

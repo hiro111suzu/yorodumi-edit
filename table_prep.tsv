@@ -21,7 +21,6 @@ compo	Component	構成要素	Sample		1	1	1
 categ	Category	カテゴリ	Sample				
 spec	Species	生物種	Sample		1	1	1
 agg_state	Aggregation State	集合状態	Sample			1	1
-olig_state	Oligomeritc State	オリゴマーの状態	Sample			1	
 molw	Molecular Weight (MDa)	分子量（MDa）	Sample	REAL		1
 molw_seg	Molecular Weight (MDa)	分子量（MDa）	Sample	REAL			1
 

@@ -360,7 +360,8 @@ Peplomer protein	Peplomer
 arginine-vasopressin	Vasopressin
 Arg-vasopressin	Vasopressin
 ELMO	ELMO (protein)
-
+IL-2	Interleukin 2
+motor proteins	Motor protein
 ..	remove
 entity	x
 ipet	x
@@ -856,6 +857,7 @@ TFOX	x
 The Best Damn Thing	x
 The Sequence	x
 Red Bull Music Academy	x
+Ilyushin Il-2	x
 
 .	ng_term
 //	部分一致で弾く、 case sesnsitive
